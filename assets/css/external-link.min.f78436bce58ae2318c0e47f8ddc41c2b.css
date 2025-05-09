@@ -1,0 +1,25 @@
+.disclaimer-popup-component{z-index:1000;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.6);display:none}
+.disclaimer-popup-component .disclaimer-popup-content{width:800px;position:fixed;top:50%;left:50%;background-color:#fff;transform:translate(-50%,-50%);border-radius:16px;z-index:1001}
+.disclaimer-popup-component .disclaimer-popup-content-box{margin:48px 80px 40px 80px}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-title{font-size:28px;line-height:1.321;text-overflow:ellipsis;overflow:hidden;-webkit-line-clamp:2;font-weight:600}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-description{margin-top:27px;font-size:16px;opacity:.6}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-link{margin-top:24px;color:#2788d9;font-size:16px;padding-bottom:25px;border-bottom:1px solid #f7f7f7;word-break:break-all}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box{display:flex;justify-content:flex-end;margin-top:40px}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box .btn{font-size:13px;padding:17px 31px 15px 31px;border:1px solid #e3e3e3;border-radius:4px;line-height:1.2307;display:inline-block;cursor:pointer;-webkit-transition:.3s ease-out;transition:.3s ease-out}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box .disclaimer-popup-cancel-btn:hover{border:1px solid #000}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box .disclaimer-popup-continue-btn{background-color:#000;margin-left:24px;color:#fff;background-color:#000;cursor:pointer}
+html[dir='rtl'] .disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box .disclaimer-popup-continue-btn{margin-right:24px;margin-left:0}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box .disclaimer-popup-continue-btn:hover{opacity:.8}
+.disclaimer-popup-component .disclaimer-popup-content .close-svg{display:flex;justify-content:flex-end;margin-right:8px;margin-top:8px}
+.disclaimer-popup-component .disclaimer-popup-content .close-svg svg{cursor:pointer;opacity:.6;-webkit-transition:.3s ease-out;transition:.3s ease-out}
+.disclaimer-popup-component .disclaimer-popup-content .close-svg svg:hover{opacity:.8}
+html[dir='rtl'] .disclaimer-popup-component .disclaimer-popup-content .close-svg{margin-right:0;margin-left:8px}
+@media only screen and (max-width:991.98px){.disclaimer-popup-component .disclaimer-popup-content{width:100%;height:100%;border-radius:0}
+.disclaimer-popup-component .disclaimer-popup-content .close-svg{margin-right:16px;margin-top:16px}
+.disclaimer-popup-component .disclaimer-popup-content-box{margin:40px 40px 0 40px}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-description{margin-top:30px}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-link{padding-bottom:24px}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box{justify-content:right}
+html[dir='rtl'] .disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-bottom-box{justify-content:left}
+.disclaimer-popup-component .disclaimer-popup-content .disclaimer-popup-title{font-size:24px}
+}

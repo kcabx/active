@@ -1,0 +1,3046 @@
+
+
+<!DOCTYPE html>
+<html xml:lang="zh-CN" lang="zh-CN" prefix="og:http://ogp.me/ns#">
+    
+	
+
+
+	<head>
+	
+	
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="Access-Control-Allow-Origin"/>
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+
+	<meta name="description" content="全新 HarmonyOS 5，首个鸿蒙电脑操作系统，精致流畅，体验浑然天成，手势操作更简单。鸿蒙智能，AI 助手小艺更全能。万物互联，支持硬件、应用、数据无缝接续互联。安全防护，隐私数据安全面面俱到。"/>
+
+	<meta name="keywords" content="鸿蒙 PC,鸿蒙电脑,鸿蒙笔记本,鸿蒙笔记本电脑,华为鸿蒙,鸿蒙系统,鸿蒙操作系统 5,HarmonyOS 5,鸿蒙操作系统,鸿蒙官网,鸿蒙电脑系统,电脑端 HarmonyOS 5,电脑端 HarmonyOS NEXT"/>
+	<meta name="GENERATOR" content=" 8.00.7601.19003"/>
+	<meta name="robots" content="index,follow"/>
+
+	
+  		
+      		
+        	
+			
+	             <meta name="title" content="鸿蒙电脑 - HarmonyOS 5"/>
+		     
+		
+
+		
+			<title>鸿蒙电脑 - HarmonyOS 5</title>
+	    
+
+		
+
+	    
+
+	    
+    
+
+    
+        
+        	<link rel="canonical" href="https://consumer.huawei.com/cn/harmonyos-computer/harmonyos-5/"/>
+        
+	
+
+
+    
+
+	
+	
+
+	
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+	
+
+
+
+
+	
+	<script type="text/javascript">window.pageLoadStart = new Date().getTime();</script>
+	
+
+<link rel="shortcut icon" href="/content/dam/huawei-cbg-site/common/huawei-logo.png" type="image/png"/>
+<link rel="icon" href="/content/dam/huawei-cbg-site/common/huawei-logo.png" type="image/png"/>
+<link rel="bookmark" href="/content/dam/huawei-cbg-site/common/huawei-logo.png" type="image/png"/>
+
+	
+
+
+	
+		
+			
+    
+<link rel="stylesheet" href="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/public-v4.min.621040b460c950087287c1cc196db05a.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4-nav-v2.min.1ae47838022e41f338cad6d80deb7b8b.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/huawei-cbg-site/clientlib-mkt/v5/common-header-v5.min.21c89f5b517960f635d9dbef56e7d776.css" type="text/css">
+
+
+
+			
+			
+		
+		
+	
+
+
+	
+	
+<script type="text/javascript">
+
+	function getEncCookie(name){
+		var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+		if(arr=document.cookie.match(reg))
+			return unescape(arr[2]);
+		else
+			return null;
+	}
+    // data layer javascript
+    window.digitalData={"page":{"pageType":{"type":""},"pageInfo":{"appNum":"A59848116","siteCode":"cn","staticResHost":"//consumer-res.huawei.com","isProd":false,"serviceGatewayPath":"https://sgw-cn.c.huawei.com/forward","gaiaPath":"//r.huaweistatic.com","ccpcApiKey":"CN","siteName":"China (CN)","siteCodeForAPI":"cn","language":"zh_cn","pageName":"cbg:cn:harmonyos-computer:harmonyos-5","uri":"/cn/harmonyos-computer/harmonyos-5/","site":"cbg","countryCode":"CN","siteCode2":"cn","isProductMiniSitePage":false,"knowledgeHost":"//consumer-tkb.huawei.com","baiduMapKeyV3":"eqBoO19TvrKnkXBWZSn4m5oLOolXAn48","isProductDetailPage":false,"publishedHost":"https://consumer.huawei.com","siteCurrency":"￥"},"category":{"pageType":"harmonyos-computer","subCategory1":"harmonyos-5","primaryCategory":"harmonyos-computer"}},"event":[]};
+    window.digitalData.page.pageInfo.currentHost = location.host;
+    window.encUser = getEncCookie("data_layer_enc");
+
+    // is the site Arabic site
+    window.isArabicSite = false;
+
+     // map type
+    window.customMapType = "baidu";
+</script>
+
+
+	
+	<script type="text/javascript" src="/etc/designs/huawei-cbg-site/statics/jquery/jquery.min.js"></script>
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var service_sessionuuid_support = "base/basecommonService/sessionuuid";
+
+	var SITE_CODE = window.digitalData.page.pageInfo.siteCodeForAPI || window.digitalData.page.pageInfo.siteCode;
+	var APP_NUM = window.digitalData.page.pageInfo.appNum;
+	var site_language = window.digitalData.page.pageInfo.language;
+	var countryCode = window.digitalData.page.pageInfo.countryCode;
+	var allowHA = false;
+	window.isEcommercePage = false;
+</script>
+
+
+	<input id="ha-report-url" type="hidden" value="https://metrics-dra.dt.dbankcloud.com:443/webv2"/>
+
+
+
+<script type="text/javascript">
+(function () {
+	window.isHealthWebView = function() {
+		return window.JsInteraction && typeof window.JsInteraction.isFromHuaweiHealth === 'function' && window.JsInteraction.isFromHuaweiHealth();
+	}
+
+	// 页面头尾隐藏样式
+	const appWebViewStyle = `
+		.huawei-v4 #header-v4,
+		.huawei-v4 #second-navigation-v4,
+		.huawei-v4 #header-placeholder,
+		.huawei-v4 #robotIcon,
+		.huawei-v4 #cookie-information-template-wrapper,
+		.huawei-v4 .huawei-convergent-cookie,
+		.huawei-v4 .optanon-alert-box-wrapper,
+		.huawei-v4 .nps-survey,
+		.huawei-v4 .hwv3-animate-box,
+		.huawei-v4 .huawei-bootom-cookie,
+		.huawei-v4 .v4.n09-footer .container div:not(.policy-text),
+		.huawei-v4.nav-hidden .huawei-ie-tips {
+			display: none !important;
+		}`;
+
+	function addCssByStyle(cssString) {
+		const style = document.createElement("style");
+		style.setAttribute("type", "text/css");
+
+		const cssText = document.createTextNode(cssString);
+		style.appendChild(cssText);
+
+		const heads = document.getElementsByTagName("head");
+		if (heads.length) {
+			heads[0].appendChild(style);
+		} else {
+			document.documentElement.appendChild(style);
+		}
+	}
+
+	/**
+	 * 判断当前页面是否为服务页面及智慧生活(window.hilink) 或者 MHW-APP(integrationJsInterface)嵌入
+	 *
+	 * @returns {*|boolean}
+	 */
+	function isSupportPageInAppView() {
+		return window.digitalData && window.digitalData.page.category.pageType == 'support'
+				&& (window.hilink || window.integrationJsInterface || window.integrationJsInterfaceWebview || window.hicareJsInterface);
+	}
+
+	function isEcommerceSite() {
+		const siteCode = window.digitalData ? window.digitalData.page.pageInfo.siteCode2 : '';
+		const ecommerceSiteCodeList = ['uk', 'fr', 'de', 'es', 'it', 'nl','ro', 'pt', 'pl', 'cz', 'tr', 'my', 'sa', 'ae', 'th', 'jp', 'pe', 'mx', 'cl', 'co', 'za', 'ru', 'ph'];
+		return ecommerceSiteCodeList.indexOf(siteCode) > -1;
+	}
+
+	// 在运动健康/智慧生活服务页面webView中，隐藏页面头尾
+	if ((isHealthWebView() && isEcommerceSite()) || isSupportPageInAppView()) {
+		addCssByStyle(appWebViewStyle);
+	}
+})();
+</script>
+
+
+<script type="text/javascript">
+	window.dataLayer = window.dataLayer || [];
+
+	function getChapter2(){
+		var pageType = window.digitalData.page.category.pageType;
+		pageType = pageType.split("_")[0];
+		var chapter2 = window.digitalData.page.category.subCategory1;
+		if(pageType == "product-detail" || pageType == "product-listing"){
+			chapter2 = window.digitalData.page.category.primaryCategory;
+		}
+		return chapter2;
+	}
+
+	function getPageName(){
+		var pageName = "";
+		var pathArr = location.pathname.split("/");
+		for(var index = pathArr.length - 1; index > 0; index --){
+			if(pathArr[index] != ""){
+				pageName = pathArr[index];
+				if(pageName.indexOf(".html") != -1){
+					pageName = pageName.split(".")[0];
+				}
+				break;
+			}
+		}
+		return pageName;
+	}
+</script>
+
+	<script>
+		var siteCode = window.digitalData ? window.digitalData.page.pageInfo.siteCode2 : '';
+		var pageCategory = window.digitalData ? window.digitalData.page.category.pageType: '';
+		var countryCode = window.digitalData ? window.digitalData.page.pageInfo.countryCode: '';
+		var language = window.digitalData ? window.digitalData.page.pageInfo.language: '';
+		var siteName = window.digitalData ? window.digitalData.page.pageInfo.siteName:'';
+		var pageProductInfo =  window.digitalData.product ? window.digitalData.product.productInfo:'';
+		function dateFormat(fmt) {
+			var d = new Date();
+			var local = d.getTime();
+			var offset = d.getTimezoneOffset() * 60000;
+			var localUtc = new Date().getTimezoneOffset() / 60;
+			var utcTime;
+			if (localUtc > 0) {
+				utcTime = local - offset;
+			} else {
+				utcTime = local + offset;
+			}
+			var CNTime = utcTime + 3600000 * 8;
+			var nd = new Date(CNTime);
+			var o = {
+				"M+": nd.getMonth() + 1,
+				"d+": nd.getDate(),
+				"H+": nd.getHours(),
+				"m+": nd.getMinutes(),
+				"s+": nd.getSeconds(),
+				"q+": Math.floor((nd.getMonth() + 3) / 3),
+				"S": nd.getMilliseconds()
+			};
+			if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (nd.getFullYear() + "").substr(4 - RegExp.$1.length));
+			for (var k in o)
+				if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+			return fmt;
+		}
+
+        // hitTimeStamp : YYYYMMDD_hh:mm:ss 时区是(GMT+08:00) China Time，就是GA全球视图的时区
+		window.dataLayer.push({
+			userId: "",
+			sessionId: "",
+			firstSourceMedium:"",
+			lastSourceMedium:"",
+			accountStatus: "",
+			loginStatus: "",
+			hitTimeStamp: dateFormat("yyyy-MM-dd_HH:mm:ss"),
+			pageCategory: pageCategory,
+			siteCountryCode: countryCode,
+			siteLanguage: language,
+			siteCountryName: siteName,
+			"productMktName":pageProductInfo&&pageProductInfo.marketingName||'',
+			"productCategory":pageProductInfo&&pageProductInfo.category||'',
+			"userCategory":""
+		});
+
+		if(pageCategory == 'search') {
+			var reg = new RegExp("(^|&)keyword=([^&]*)(&|$)");
+			var val = window.location.search.substr(1).match(reg);
+			if(val!=null&&val[2]) {
+				var searchKeyword=decodeURIComponent(val[2])
+				window.dataLayer.push({
+					cat55: "product",
+					kw55: searchKeyword,
+					siteSearchResults: ""
+				});
+			} ;
+
+		}
+	</script>
+
+<script type="text/javascript">
+	/**
+	 * 获取url中的参数
+	 */
+	function getUrlParam(name) {
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+		var r = window.location.search.substr(1).match(reg); //匹配目标参数
+		if (r != null) {
+			return decodeURIComponent(r[2]);
+		}
+		return null; //返回参数值
+	}
+</script>
+
+
+
+
+
+
+	
+	
+		
+		<script type="text/plain" class="cookie-package-controller analysis-cookie default-load-cookie">
+			(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-MBP7H56');
+		</script>
+		
+		
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript">
+		var enableExternalLinkPopup = Boolean(true);
+		var externalLinkWhitelist = "[\x22huawei.com\x22,\x22h5hosting\u002Ddrcn.dbankcdn.cn\x22,\x22vmall.com\x22,\x22dpd.pt\x22,\x22cn.biosenseclinic.com\x22,\x22contentcenter\u002Ddrcn.dbankcdn.com\x22,\x22css\u002Dcomplain\u002Ddrcn.platform.dbankcloud.cn\x22,\x22fancourier.ro\x22]" != ''
+										? JSON.parse("[\x22huawei.com\x22,\x22h5hosting\u002Ddrcn.dbankcdn.cn\x22,\x22vmall.com\x22,\x22dpd.pt\x22,\x22cn.biosenseclinic.com\x22,\x22contentcenter\u002Ddrcn.dbankcdn.com\x22,\x22css\u002Dcomplain\u002Ddrcn.platform.dbankcloud.cn\x22,\x22fancourier.ro\x22]")
+										: [];
+	</script>
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var enableNewCookieCfg = Boolean(false);
+    var cookieModeSetting = "noPromptMode";
+    var ctlAnalysisCookie = Boolean();
+    var ctlAdvertiseCookie = Boolean();
+    var enableDefaultCookieAccept = Boolean();
+    var pushForConsentTime = "";
+    var pushForConsentTimeNewMode = "";
+
+    // 分享于My Huawei App中打开 开关
+    var enableShareFeature = Boolean(false);
+    // My Huawei App 下载页面地址配置项
+    var appDownloadLink = "";
+    // 是否启用 App 侧 FA 数据推送
+    var enableAppFa = Boolean();
+    // App 区域映射Json配置项
+    var appRegionMapperJsonStr = "[{\r\n        \x22region\x22: \x22fr_FR\x22,\r\n        \x22site\x22: \x22fr\x22\r\n    }, {\r\n        \x22region\x22: \x22en_GB\x22,\r\n        \x22site\x22: \x22uk\x22\r\n    }, {\r\n        \x22region\x22: \x22de_DE\x22,\r\n        \x22site\x22: \x22de\x22\r\n    }, {\r\n        \x22region\x22: \x22it_IT\x22,\r\n        \x22site\x22: \x22it\x22\r\n    }, {\r\n        \x22region\x22: \x22es_ES\x22,\r\n        \x22site\x22: \x22es\x22\r\n    }, {\r\n        \x22region\x22: \x22nl_NL\x22,\r\n        \x22site\x22: \x22nl\x22\r\n    }, {\r\n        \x22region\x22: \x22ja_JP\x22,\r\n        \x22site\x22: \x22jp\x22\r\n    }, {\r\n        \x22region\x22: \x22en_PH\x22,\r\n        \x22site\x22: \x22ph\x22\r\n    }, {\r\n        \x22region\x22: \x22zh_CN\x22,\r\n        \x22site\x22: \x22cn\x22\r\n    }, {\r\n        \x22region\x22: \x22en_ZA\x22,\r\n        \x22site\x22: \x22za\x22\r\n    }, {\r\n        \x22region\x22: \x22pl_PL\x22,\r\n        \x22site\x22: \x22pl\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_RU\x22,\r\n        \x22site\x22: \x22ru\x22\r\n    }, {\r\n        \x22region\x22: \x22th_TH\x22,\r\n        \x22site\x22: \x22th\x22\r\n    }, {\r\n        \x22region\x22: \x22cs_CZ\x22,\r\n        \x22site\x22: \x22cz\x22\r\n    }, {\r\n        \x22region\x22: \x22ro_RO\x22,\r\n        \x22site\x22: \x22ro\x22\r\n    }, {\r\n        \x22region\x22: \x22tr_TR\x22,\r\n        \x22site\x22: \x22tr\x22\r\n    }, {\r\n        \x22region\x22: \x22es_PE\x22,\r\n        \x22site\x22: \x22pe\x22\r\n    }, {\r\n        \x22region\x22: \x22pt_PT\x22,\r\n        \x22site\x22: \x22pt\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_AE\x22,\r\n        \x22site\x22: \x22ae\x22\r\n    }, {\r\n        \x22region\x22: \x22en_AE\x22,\r\n        \x22site\x22: \x22ae_en\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_EG\x22,\r\n        \x22site\x22: \x22eg\x22\r\n    }, {\r\n        \x22region\x22: \x22en_EG\x22,\r\n        \x22site\x22: \x22eg_en\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_SA\x22,\r\n        \x22site\x22: \x22sa\x22\r\n    }, {\r\n        \x22region\x22: \x22en_SA\x22,\r\n        \x22site\x22: \x22sa_en\x22\r\n    }, {\r\n        \x22region\x22: \x22es_CL\x22,\r\n        \x22site\x22: \x22cl\x22\r\n    }, {\r\n        \x22region\x22: \x22es_MX\x22,\r\n        \x22site\x22: \x22mx\x22\r\n    }, {\r\n        \x22region\x22: \x22es_CO\x22,\r\n        \x22site\x22: \x22co\x22\r\n    }, {\r\n        \x22region\x22: \x22en_MY\x22,\r\n        \x22site\x22: \x22my\x22\r\n    }, {\r\n        \x22region\x22: \x22id_ID\x22,\r\n        \x22site\x22: \x22id\x22\r\n    }, {\r\n        \x22region\x22: \x22en_AU\x22,\r\n        \x22site\x22: \x22au\x22\r\n    }, {\r\n        \x22region\x22: \x22de_CH\x22,\r\n        \x22site\x22: \x22ch\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_CH\x22,\r\n        \x22site\x22: \x22ch_fr\x22\r\n    }, {\r\n        \x22region\x22: \x22nl_BE\x22,\r\n        \x22site\x22: \x22be\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_BE\x22,\r\n        \x22site\x22: \x22be_fr\x22\r\n    }, {\r\n        \x22region\x22: \x22en_KH\x22,\r\n        \x22site\x22: \x22kh\x22\r\n    }, {\r\n        \x22region\x22: \x22my_MM\x22,\r\n        \x22site\x22: \x22mm\x22\r\n    }, {\r\n        \x22region\x22: \x22en_MM\x22,\r\n        \x22site\x22: \x22mm\x22\r\n    }, {\r\n        \x22region\x22: \x22vi_VN\x22,\r\n        \x22site\x22: \x22vn\x22\r\n    }, {\r\n        \x22region\x22: \x22en_SG\x22,\r\n        \x22site\x22: \x22sg\x22\r\n    }, {\r\n        \x22region\x22: \x22es_PY\x22,\r\n        \x22site\x22: \x22py\x22\r\n    }, {\r\n        \x22region\x22: \x22es_PA\x22,\r\n        \x22site\x22: \x22pa\x22\r\n    }, {\r\n        \x22region\x22: \x22es_BO\x22,\r\n        \x22site\x22: \x22bo\x22\r\n    }, {\r\n        \x22region\x22: \x22es_EC\x22,\r\n        \x22site\x22: \x22ec\x22\r\n    }, {\r\n        \x22region\x22: \x22es_HN\x22,\r\n        \x22site\x22: \x22hn\x22\r\n    }, {\r\n        \x22region\x22: \x22es_GT\x22,\r\n        \x22site\x22: \x22gt\x22\r\n    }, {\r\n        \x22region\x22: \x22es_CR\x22,\r\n        \x22site\x22: \x22cr\x22\r\n    }, {\r\n        \x22region\x22: \x22es_UY\x22,\r\n        \x22site\x22: \x22uy\x22\r\n    }, {\r\n        \x22region\x22: \x22sk_SK\x22,\r\n        \x22site\x22: \x22sk\x22\r\n    }, {\r\n        \x22region\x22: \x22en_MU\x22,\r\n        \x22site\x22: \x22mu\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_JO\x22,\r\n        \x22site\x22: \x22jo\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_BH\x22,\r\n        \x22site\x22: \x22bh_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22en_BH\x22,\r\n        \x22site\x22: \x22bh\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_KW\x22,\r\n        \x22site\x22: \x22kw\x22\r\n    }, {\r\n        \x22region\x22: \x22en_KW\x22,\r\n        \x22site\x22: \x22kw_en\x22\r\n    }, {\r\n        \x22region\x22: \x22en_GH\x22,\r\n        \x22site\x22: \x22gh\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_QA\x22,\r\n        \x22site\x22: \x22qa_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22en_QA\x22,\r\n        \x22site\x22: \x22qa\x22\r\n    }, {\r\n        \x22region\x22: \x22en_NG\x22,\r\n        \x22site\x22: \x22ng\x22\r\n    }, {\r\n        \x22region\x22: \x22en_IE\x22,\r\n        \x22site\x22: \x22ie\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_DZ\x22,\r\n        \x22site\x22: \x22dz_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_DZ\x22,\r\n        \x22site\x22: \x22dz\x22\r\n    }, {\r\n        \x22region\x22: \x22en_KE\x22,\r\n        \x22site\x22: \x22ke\x22\r\n    }, {\r\n        \x22region\x22: \x22en_LB\x22,\r\n        \x22site\x22: \x22lb\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_TN\x22,\r\n        \x22site\x22: \x22tn_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_TN\x22,\r\n        \x22site\x22: \x22tn\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_IQ\x22,\r\n        \x22site\x22: \x22iq_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22en_IQ\x22,\r\n        \x22site\x22: \x22iq\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_OM\x22,\r\n        \x22site\x22: \x22om_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22en_OM\x22,\r\n        \x22site\x22: \x22om\x22\r\n    }, {\r\n        \x22region\x22: \x22en_IN\x22,\r\n        \x22site\x22: \x22in\x22\r\n    }, {\r\n        \x22region\x22: \x22en_PK\x22,\r\n        \x22site\x22: \x22pk\x22\r\n    }, {\r\n        \x22region\x22: \x22ar_MA\x22,\r\n        \x22site\x22: \x22ma_ar\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_MA\x22,\r\n        \x22site\x22: \x22ma\x22\r\n    }, {\r\n        \x22region\x22: \x22sr_RS\x22,\r\n        \x22site\x22: \x22rs\x22\r\n    }, {\r\n        \x22region\x22: \x22hu_HU\x22,\r\n        \x22site\x22: \x22hu\x22\r\n    }, {\r\n        \x22region\x22: \x22de_AT\x22,\r\n        \x22site\x22: \x22at\x22\r\n    }, {\r\n        \x22region\x22: \x22hr_HR\x22,\r\n        \x22site\x22: \x22hr\x22\r\n    }, {\r\n        \x22region\x22: \x22el_CY\x22,\r\n        \x22site\x22: \x22cy\x22\r\n    }, {\r\n        \x22region\x22: \x22sl_SI\x22,\r\n        \x22site\x22: \x22si\x22\r\n    }, {\r\n        \x22region\x22: \x22el_GR\x22,\r\n        \x22site\x22: \x22gr\x22\r\n    }, {\r\n        \x22region\x22: \x22uk_UA\x22,\r\n        \x22site\x22: \x22ua\x22\r\n    }, {\r\n        \x22region\x22: \x22bg_BG\x22,\r\n        \x22site\x22: \x22bg\x22\r\n    }, {\r\n        \x22region\x22: \x22en_BD\x22,\r\n        \x22site\x22: \x22bd\x22\r\n    }, {\r\n        \x22region\x22: \x22zh_tw_HK\x22,\r\n        \x22site\x22: \x22hk\x22\r\n    }, {\r\n        \x22region\x22: \x22en_NZ\x22,\r\n        \x22site\x22: \x22nz\x22\r\n    }, {\r\n        \x22region\x22: \x22es_SV\x22,\r\n        \x22site\x22: \x22sv\x22\r\n    }, {\r\n        \x22region\x22: \x22pt_BR\x22,\r\n        \x22site\x22: \x22br\x22\r\n    }, {\r\n        \x22region\x22: \x22es_DO\x22,\r\n        \x22site\x22: \x22do\x22\r\n    }, {\r\n        \x22region\x22: \x22es_AR\x22,\r\n        \x22site\x22: \x22ar\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_BE\x22,\r\n        \x22site\x22: \x22by\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_KZ\x22,\r\n        \x22site\x22: \x22kz\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_UZ\x22,\r\n        \x22site\x22: \x22uz\x22\r\n    }, {\r\n        \x22region\x22: \x22en_LK\x22,\r\n        \x22site\x22: \x22lk\x22\r\n    }, {\r\n        \x22region\x22: \x22en_CA\x22,\r\n        \x22site\x22: \x22ca\x22\r\n    }, {\r\n        \x22region\x22: \x22fr_CA\x22,\r\n        \x22site\x22: \x22ca_fr\x22\r\n    }, {\r\n        \x22region\x22: \x22bs_BA\x22,\r\n        \x22site\x22: \x22ba\x22\r\n    }, {\r\n        \x22region\x22: \x22ro_MD\x22,\r\n        \x22site\x22: \x22md\x22\r\n    }, {\r\n        \x22region\x22: \x22he_IL\x22,\r\n        \x22site\x22: \x22il\x22\r\n    }, {\r\n        \x22region\x22: \x22mk_MK\x22,\r\n        \x22site\x22: \x22mk\x22\r\n    }, {\r\n        \x22region\x22: \x22fi_FI\x22,\r\n        \x22site\x22: \x22fi\x22\r\n    }, {\r\n        \x22region\x22: \x22da_DK\x22,\r\n        \x22site\x22: \x22dk\x22\r\n    }, {\r\n        \x22region\x22: \x22no_NO\x22,\r\n        \x22site\x22: \x22no\x22\r\n    }, {\r\n        \x22region\x22: \x22et_EE\x22,\r\n        \x22site\x22: \x22ee\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_EE\x22,\r\n        \x22site\x22: \x22ee\x22\r\n    }, {\r\n        \x22region\x22: \x22lv_LV\x22,\r\n        \x22site\x22: \x22lv\x22\r\n    }, {\r\n        \x22region\x22: \x22ru_LV\x22,\r\n        \x22site\x22: \x22lv\x22\r\n    }, {\r\n        \x22region\x22: \x22lt_LT\x22,\r\n        \x22site\x22: \x22lt\x22\r\n    }, {\r\n        \x22region\x22: \x22sv_SE\x22,\r\n        \x22site\x22: \x22se\x22\r\n    }\r\n]";
+</script>
+
+<script type="text/javascript">
+	var supportv2 = {};
+    supportv2["toCApiUrl"] = "https:\/\/brandzone\u002Dcn.c.huawei.com";
+    supportv2["captchaServiceDomain"] = "csc\u002Dadapter\u002Ddrcn.security.dbankcloud.cn";
+    supportv2["apiBaseUrl"] = "https:\/\/ccpce\u002Dcn.consumer.huawei.com\/ccpcmd\/services\/dispatch\/secured\/CCPC\/EN";
+    supportv2["captchaUrl"] = "contentcenter\u002Ddrcn.dbankcdn.cn\/pub_1\/cscaptcha_captcha_900_9\/b\/v3\/netease";
+    supportv2["supportApiUrl"] =  "https:\/\/consumer.huawei.com\/support";
+    supportv2["ccpcServiceGatewayUrl"] =  "";
+	supportv2["cmktApiUrl"] =  "https:\/\/consumer.huawei.com\/cmkt";
+	supportv2["casUrl"] = "https:\/\/id1.cloud.huawei.com\/CAS";
+	supportv2["logisticcode"] = "SF\u002DCN";
+	supportv2["knowledgeLangCode"] = "";
+	supportv2["knowledgeCountry"] = "";
+    supportv2["productCategoryMapping"] = "[{\x22deviceProductLv2Id\x22:\x22CMCG10000002\x22,\x22categoryNameKey\x22:\x22Phones\x22,\x22majorProductCode\x22:\x22CMCG10000160,CMCG10000014,CMCG10000059,CMCG10000013,CMCG10000056,CMCG10000057,CMCG10000051,CMCG10000016,CMCG10000052,CMCG10000054,CMCG10000055,CMCG10000058,CMCG10000017,CMCG10000015,CMCG10000053\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/phones.svg\x22,\x22deviceCenterMajorName\x22:\x22Phones\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000003\x22,\x22categoryNameKey\x22:\x22Tablets\x22,\x22majorProductCode\x22:\x22CMCG10000018,CMCG10000019,CMCG10000061,CMCG10000060\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/tablets.svg\x22,\x22deviceCenterMajorName\x22:\x22平板\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000240\x22,\x22categoryNameKey\x22:\x22Vision\x22,\x22majorProductCode\x22:\x22CMCG10000920,CMCG10000280,CMCG10000922,CMCG10000941,CMCG10000980,CMCG10000940,CMCG10001000,CMCG10000921,CMCG10000300\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/visions.svg\x22,\x22deviceCenterMajorName\x22:\x22智慧屏\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000005\x22,\x22categoryNameKey\x22:\x22Wearables\x22,\x22majorProductCode\x22:\x22CMCG10000021,CMCG10000022,CMCG10000023,CMCG10000063,CMCG10000062\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/wearables.svg\x22,\x22deviceCenterMajorName\x22:\x22穿戴\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000004\x22,\x22categoryNameKey\x22:\x22Laptops\x22,\x22majorProductCode\x22:\x22CMCG10000620,CMCG10000400,CMCG10000383,CMCG10000401,CMCG10000020,CMCG10000384,CMCG10000402,CMCG10000121,CMCG10000345\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/laptops.svg\x22,\x22deviceCenterMajorName\x22:\x22笔记本\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000006\x22,\x22categoryNameKey\x22:\x22Smart home\x22,\x22majorProductCode\x22:\x22CMCG10000029,CMCG10000200,CMCG10000027,CMCG10000075,CMCG10000180,CMCG10000065,CMCG10000220,CMCG10000026,CMCG10000064,CMCG10000025,CMCG10000820,CMCG10000221,CMCG10000024,CMCG10000028,CMCG10000031,CMCG10000030\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/homes.svg\x22,\x22deviceCenterMajorName\x22:\x22智能家居\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000010\x22,\x22categoryNameKey\x22:\x22Accessories\x22,\x22majorProductCode\x22:\x22CMCG10000037,CMCG10000036,CMCG10000038,CMCG10000034,CMCG10000035,CMCG10000067,CMCG10000070,CMCG10000068,CMCG10000069,CMCG10000066\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/accessories.svg\x22,\x22deviceCenterMajorName\x22:\x22配件\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000340\x22,\x22categoryNameKey\x22:\x22Monitors\x22,\x22majorProductCode\x22:\x22CMCG10000381,CMCG10000382\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/monitors.svg\x22,\x22deviceCenterMajorName\x22:\x22显示器\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000360\x22,\x22categoryNameKey\x22:\x22Desktops\x22,\x22majorProductCode\x22:\x22CMCG10000342,CMCG10000420,CMCG10000380,CMCG10000361\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/desktops.svg\x22,\x22deviceCenterMajorName\x22:\x22台式机\x22},{\x22deviceProductLv2Id\x22:\x22CMCG10000760\x22,\x22categoryNameKey\x22:\x22Smart office\x22,\x22majorProductCode\x22:\x22CMCG10000761,CMCG10000780\x22,\x22picUrl\x22:\x22\/content\/dam\/huawei\u002Dcbg\u002Dsite\/greate\u002Dchina\/cn\/support\/support\u002Dv3\/warranty\u002Dquery\/printers.svg\x22,\x22deviceCenterMajorName\x22:\x22智慧办公选件\x22}]";
+    supportv2["myDeviceI18nValue"] = "我的设备";
+    supportv2["gaEntrance"] = ""
+    supportv2["gaModule"] = ""
+    supportv2["entranceLv2ForGa"] = ""
+    supportv2["productCategory1"] = ""
+    supportv2["productCategory2"] = ""
+    supportv2["productCategory3"] = ""
+    supportv2["productCategory4"] = ""
+    supportv2["ccpcSgwAppId"] = "96E6614BD648F3582A2D6D657C5CC768"
+    supportv2["ccpcMyHuaweiApiId"] = "EDCF82D77A5AB59706CD5F2163F67427"
+    supportv2["uumSgwAppId"] = "EDCF82D77A5AB59706CD5F2163F67427"
+    supportv2["enableCsrfVerify"] = "true" == "true";
+    supportv2["cmktSgwAppId"] = "DE1FDF33D6278164A62EC486793F7CCF"
+    supportv2.weComSdk = "https:\/\/wwcdn.weixin.qq.com\/node\/open\/js\/wecom\u002Djssdk\u002D2.0.2.js";
+    supportv2.weComCorpId = "ww1c80e3515f0cf2c3";
+    supportv2.weComAgentId = "1000246";
+
+</script>
+<script type="text/javascript">
+		var loginApiUrl={};
+			loginApiUrl["cmscApiUrl"] = "https:\/\/api\u002Dcn.c.huawei.com\/cuepf";
+    		loginApiUrl["huaweitimeApiUrl"] = "https:\/\/cbg.huawei.com\/mkt\/scrm";
+
+        var mktConfig={};
+            mktConfig["websiteFunctionApi"] = "";
+            mktConfig["uumApi"] = "https:\/\/brandzone\u002Dcn.c.huawei.com";
+            mktConfig["sgwApi"] = (window.digitalData && window.digitalData.page.pageInfo.serviceGatewayPath) ? window.digitalData.page.pageInfo.serviceGatewayPath : "https:\/\/sgw\u002Dcn.c.huawei.com\/forward";
+</script>
+
+
+<input type="hidden" class="month_txt" value="month txt"/>
+
+
+
+
+
+<input type="hidden" id="underageTips" value="本服务暂未对儿童用户开放，您可以联系您的父母或其他监护人使用其帐号为您申请本次服务。感谢理解！" btnText="确认"/>
+<input type="hidden" id="userAccountLock"/>
+
+
+
+    
+    
+<script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/public-v4.min.e0b31ef8be51cd97afe53ebd4ea52807.js"></script>
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-public-footer.min.fceda8aec29965bb0a72b1283da5e068.js"></script>
+
+
+
+
+
+
+
+
+
+
+<meta name="format-detection" content="telephone=no"/>
+
+
+<script type="text/javascript">
+	// 站点
+	var siteCode = window.digitalData ? window.digitalData.page.pageInfo.siteCode2 : '';
+	var ec_siteCode = window.digitalData ? window.digitalData.page.pageInfo.siteCode2 : '';
+    var isECommerceSite = "None";
+    	isECommerceSite = isECommerceSite ? isECommerceSite : "None";
+    var apiHost = "https:\/\/itrinity\u002Dcn.c.huawei.com\/eCommerce\/";
+    var loginApiHost = "";
+    var upPersonalCenterLink = "";
+    var loginLink = "";
+
+ 	// 价格货币展示：货币代码
+    var ecCurrencyCode = "";
+    // 价格货币展示：货币符号位置处理
+    var putCurrencyFront = "true" !== ''
+    						? JSON.parse("true")
+							: true;
+    // 价格货币展示：from显示与否
+	var showFrom = Boolean(false);
+	// 价格货币展示：from文本位置
+    var putFromFront = Boolean(true);
+    // 价格货币展示：千位分隔符
+    var thousandSeparator = "";
+    // 价格货币展示：小数点
+    var decimalPoint = "";
+    // 价格货币展示：是否显示小数
+    var showDecimal = Boolean(true);
+    var showIntegerDecimal = Boolean(true);
+    // 价格货币展示：是否空格隔开
+    var showCurrencySpace = Boolean(true);
+
+ 	// 时区
+    var ecTimezone = "none";
+
+    // vmall登出接口
+    var vmallLogoutAPI = "";
+    // vmall需登录图片，用来拉起登录
+    var vmallLoginImgUrl = "";
+
+    // RRP
+	var enableRRP = Boolean(false);
+	var RRPText = "";
+    if (enableRRP) {
+        RRPText = "";
+    }
+    var enableScribes = Boolean(true);
+    var rrpTips = "";
+    var enableShowSave = Boolean(true);
+    var saveText = "";
+
+    // trade in开关（目前只针对PLP页，其他由中台控制）
+    var enableTradeIn = Boolean(false);
+    // 开启分期显示配置
+    var enableInstallmentCfg = Boolean(false);
+    // 显示免息文本
+    var enableInterestFree = Boolean(false);
+    // 免息文本
+    var interestFreeText = "";
+    // 分期左文本
+    var insatallmentLeftText = "";
+    // 分期右文本
+    var insatallmentRightText = "";
+    // 分期显示格式
+    var installmentDispType = "numberAndAmount";
+
+    // APP DMPA开关
+    var enableAppDmpa = Boolean(false);
+
+    // 运动健康内强制登录开关
+    var enableUnitedLoginForHealth = Boolean(false);
+</script>
+
+
+
+
+<input id="is-edit-mode" type="hidden" value="false"/>
+
+
+
+
+<input type="hidden" id="offer-page-type" value="default"/>
+<input type="hidden" id="offer-home-page"/>
+<input type="hidden" id="aem-run-mode" value="prod"/>
+
+
+
+
+<link href="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/css/swiper.min.css" type="text/css" rel="stylesheet"/>
+<link href="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/css/index.css?v1" type="text/css" rel="stylesheet"/>
+
+
+
+
+    
+        
+    
+
+
+
+		
+	
+
+</head>
+	
+
+    
+
+    
+        <body class="huawei-v4 huawei-cn   page-name-harmonyos-5 
+                ">
+        
+
+	
+		
+			<style>
+				.header-tag-title.seo{
+					position:absolute;
+					display: block;
+					height: 0;
+					width: 0;
+					overflow: hidden;
+					z-index: -1;
+				}
+			</style>
+			<h1 class="header-tag-title seo">鸿蒙电脑 - HarmonyOS 5</h1>
+		
+	
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+<input title="cookie" type="hidden" id='cookieType' value="hwcookie"/>
+
+    <div class="huawei-bootom-cookie">
+        <div class="huawei-cookie-cnt">
+            <div class="huawei-cookie-txt">
+                我们使用cookie来确保您的高速浏览体验。继续浏览本站，即表示您同意我们使用cookie。 <a href="/cn/legal/cookie-policy/" title="详情">详情</a>
+                <svg class="huawei-cookie-close" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#7f7f7f" fill-rule="evenodd">
+                        <path d="M8 7l17 17-1 1L7 8z"></path>
+                        <path d="M7 24L24 7l1 1L8 25z"></path>
+                    </g>
+                </svg>
+            </div>
+            
+        </div>
+    </div>
+
+
+
+
+
+
+
+<span class="popular-text hidden" data-value="热门搜索"></span>
+<span class="suggested-text hidden" data-value="推荐搜索"></span>
+
+
+
+
+
+<div class="v4 header-placeholder nav-v2" id="header-placeholder"></div>
+
+<div class="v4 header  slide-down-corporation  nav-v2" id="header-v4" data-component="header" role="navigation">
+    
+    <div id="topTipsBox" class="top-tips-box">
+        
+    </div>
+
+    
+    <div class="v4 n04-platform-selection platform-selection nav-v2" data-component="n04-platform-selection">
+        <button aria-haspopup="true" role="button" aria-expanded="false" class="platform-selection__toggle js-platform-toggle" type="button">
+            消费者业务网站 <span class="icon font-ico-arrow-down"></span>
+        </button>
+        <div class="platform-selection__content">
+            <div class="container">
+                <button class="icon-close">
+                    <span class="sr-only">关闭</span>
+                </button>
+                <div class="platform-selection__items row">
+                    
+                        <div class="platform-selection__item col-md-6 col-lg-3">
+                            <a title="个人用户" class="platform-selection__link platform-selection__link--active" target="_blank" rel="noopener noreferrer" data-bgname="个人用户">
+                                个人用户<span class="icon font-ico-arrow-down"></span>
+                            </a>
+                            <p class="platform-selection__item-content">手机，PC和平板，穿戴设备等个人及家用产品</p>
+                        </div>
+                    
+                        <div class="platform-selection__item col-md-6 col-lg-3">
+                            <a title="集团网站" class="platform-selection__link platform-selection__link" target="_blank" rel="noopener noreferrer" data-bgname="集团网站" href="https://www.huawei.com/cn/">
+                                集团网站<span class="icon font-ico-arrow-down"></span>
+                            </a>
+                            <p class="platform-selection__item-content">公司信息，社会责任，新闻，展会活动，行业洞察等等</p>
+                        </div>
+                    
+                        <div class="platform-selection__item col-md-6 col-lg-3">
+                            <a title="企业用户" class="platform-selection__link platform-selection__link" target="_blank" rel="noopener noreferrer" data-bgname="企业用户" href="https://e.huawei.com/cn/">
+                                企业用户<span class="icon font-ico-arrow-down"></span>
+                            </a>
+                            <p class="platform-selection__item-content">企业商用产品、解决方案和云服务</p>
+                        </div>
+                    
+                        <div class="platform-selection__item col-md-6 col-lg-3">
+                            <a title="运营商用户" class="platform-selection__link platform-selection__link" target="_blank" rel="noopener noreferrer" data-bgname="运营商用户" href="https://carrier.huawei.com/cn/">
+                                运营商用户<span class="icon font-ico-arrow-down"></span>
+                            </a>
+                            <p class="platform-selection__item-content">运营商网络解决方案、产品及服务</p>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    
+    <input title="main-nav" type="hidden" id='mainNav' value="nav-v2"/>
+    <div class="v4 n01-main-navigation main-navigation nav-v2" data-component="n01-main-navigation">
+        
+        <div class="container main-navigation__container">
+            <a title="logo" class="logo" href="/cn/" data-navicon="logo">
+                <img src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4/images/logo.svg" width="142" alt="Huawei-v4"/>
+            </a>
+            <nav class="main-nav" role="presentation">
+                
+                    
+                    
+	
+	<div class="lf-nav nav-zone">
+		<ul class="main-nav__list" role="menubar">
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="0">
+						<a title="手机" data-navicon="手机" class="main-nav__link unhover title-hide-v5" href="/cn/phones/">手机</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="1">
+						<a title="穿戴" data-navicon="穿戴" class="main-nav__link unhover title-hide-v5" href="/cn/wearables/">穿戴</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="2">
+						<a title="电脑" data-navicon="电脑" class="main-nav__link unhover title-hide-v5" href="/cn/laptops/">电脑</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="3">
+						<a title="平板" data-navicon="平板" class="main-nav__link unhover title-hide-v5" href="/cn/tablets/">平板</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="4">
+						<a title="智慧屏" data-navicon="智慧屏" class="main-nav__link unhover title-hide-v5" href="/cn/visions/">智慧屏</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="5">
+						<a title="耳机音箱" data-navicon="耳机音箱" class="main-nav__link unhover title-hide-v5" href="/cn/audio/">耳机音箱</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="6">
+						<a title="全屋智能" data-navicon="全屋智能" class="main-nav__link unhover title-hide-v5" href="/cn/wholehome/">全屋智能</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="7">
+						<a title="路由器" data-navicon="路由器" class="main-nav__link unhover title-hide-v5" href="/cn/routers/">路由器</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="8">
+						<a title="HarmonyOS 5" data-navicon="HarmonyOS 5" class="main-nav__link unhover title-hide-v5" href="/cn/harmonyos-next/">HarmonyOS 5</a>
+					</li>
+				
+				
+			
+		</ul>
+	</div>
+
+	
+	<div class="rg-nav nav-zone">
+		<ul class="main-nav__list" role="menubar">
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="0">
+						<a title="服务支持" data-navicon="服务支持" class="main-nav__link unhover title-hide-v5" href="/cn/support/">服务支持</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="1">
+						<a title="零售店" data-navicon="零售店" class="main-nav__link unhover title-hide-v5" href="/cn/retail/">零售店</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item " role="menuitem" tabindex="2">
+						<a title="商用" data-navicon="商用" class="main-nav__link unhover title-hide-v5" href="https://qingyun.huawei.com/?utm_medium=referral&utm_source=consumer.huawei.com" target="_blank" rel="noopener noreferrer">商用</a>
+					</li>
+				
+				
+			
+				
+					<li class="main-nav__item displayOnMobile" role="menuitem" tabindex="3">
+						<a title="华为商城" data-navicon="华为商城" class="main-nav__link unhover title-hide-v5" href="https://m.vmall.com/index.html?cid=91712" target="_blank" rel="noopener noreferrer">华为商城</a>
+					</li>
+				
+				
+			
+		</ul>
+	</div>
+
+                
+                
+
+                
+                
+                    <div tabindex="0" aria-haspopup="true" role="button" aria-expanded="false" class="login-v4-wrap nav-addons__link nav-addons__profile wap None">
+                        
+                        <div class="login-v4-cnt" data-gamodule="navigation" data-gaevent="support_interaction" data-entrancelevel="common">
+                            <ul class="show-login" data-support-url="https://consumer.huawei.com/cn/support/" data-support-usercenter-url="/cn/support/user-center.html" data-support-cmkt-url="https://consumer.huawei.com/cmkt" data-support-cas-url="https://id1.cloud.huawei.com/CAS" data-support-country-code='CN' data-support-login='yes' data-version='v4' data-register-type='phone'>
+                                
+                                
+
+                                
+                            </ul>
+                            
+                            <ul class="show-logout">
+                                
+                                
+
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                
+
+            </nav>
+
+            <div class="nav-addons">
+                <button class="nav-addons__link nav-addons__search js-open-search" aria-haspopup="true" role="button" aria-expanded="false" data-navicon="search">
+                    <span class="icon font-ico-search">
+                        <span class="sr-only">搜索</span>
+                    </span>
+                </button>
+
+                
+                
+                <div tabindex="0" aria-haspopup="true" role="button" aria-expanded="false" class="login-v4-wrap nav-addons__link nav-addons__profile pc None">
+                    <span class="icon font-ico-profile">
+                        <span class="sr-only">简介</span>
+                        <span class="icon-onlink-left"></span>
+                        <span class="icon-onlink-right"></span>
+                    </span>
+                    <div class="login-v4">
+                        <div class="login-font">
+                            <span class="login-bot"></span>
+                            <span class="login-top"></span>
+                        </div>
+
+                        
+                        <div class="login-v4-cnt" data-gamodule="navigation" data-gaevent="support_interaction" data-entrancelevel="common">
+                            <ul class="show-login" data-support-url="https://consumer.huawei.com/cn/support/" data-support-usercenter-url="/cn/support/user-center.html" data-support-cmkt-url="https://consumer.huawei.com/cmkt" data-support-cas-url="https://id1.cloud.huawei.com/CAS" data-support-country-code='CN' data-support-login='yes' data-version='v4' data-register-type='phone'>
+                                
+                                
+
+                                
+
+                                
+                                    <li>
+                                        <a cat='Navigation' act='Click on sign in' class="signInBtn a-sup-common" lab='<page title>' href="javascript:void(0)" title="登录">
+                                            <span>登录</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="a-sup-common registeredBtn ha-click-dispach" ha-id="me_click_login_and_registration" a-title="registration" cat='Navigation' act='Click on sign up' lab='<page title>' href="javascript:void(0)" title="注册">
+                                            <span>注册</span>
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                            
+                            <ul class="show-logout">
+                                
+                                
+
+                                
+                                    <li class="signin-service">
+                                        <a class="a-sup-common ha-click-dispach" cat='Navigation' act='Click on my service' lab='<page title>' href="/cn/support/user-center.html?type=service" title="我的服务" ha-id="me_click_my_service">
+                                        <span>我的服务</span>
+                                        </a>
+                                    </li>
+                                    <li class="signin-information">
+                                        <a class="a-sup-common ha-click-dispach" cat='Navigation' act='Click on my info' lab='<page title>' href="/cn/support/user-center.html?type=userinfo" title="我的个人信息" ha-id="me_click_personal_info">
+                                        <span>我的个人信息</span>
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    
+                                    <li class="app-sign app-sign-user">
+                                        <a class="a-sup-common" href="/cn/support/user-center.html" title="user center">
+                                            <span class="signin-user"></span>
+                                        </a>
+                                    </li>
+                                
+
+                                
+                                    <li class="logout-btn">
+                                        <a class="a-sup-common my-exit ha-click-dispach" ha-id="me_click_log_out" cat='Navigation' act='Click on exit' lab='<page title>' href="javascript:void(0)" title="退出">
+                                            <span>退出</span>
+                                        </a>
+                                    </li>
+                                
+
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                
+
+                
+                
+                
+
+                
+                    
+                        <div class="shop-bag third-party-jump">
+                            <a aria-label="cart" href="https://www.vmall.com/index.html?cid=27629229" class="shop-bag-bnt a-common" data-navicon="to Vmall" cat="Navigation" act="Click On Third-party website" lab="<page title>" target="_blank" rel="noopener noreferrer">
+                                <div class="huawei-vmall btn-square"><span class="font-long">华为商城</span><span class="font-short">商城</span></div>
+                            </a>
+                        </div>
+                        
+                    
+                
+
+                <button aria-haspopup="true" role="button" aria-expanded="false" class="nav-toggle js-nav-toggle">
+                    <span class="btn-line"></span>
+                    <span class="sr-only">打开菜单</span>
+                    <span class="btn-line"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+    
+
+    
+    <div class="v4 n12-search popup nav-v2" data-component="n12-search">
+        <div class="container">
+            <button tabindex="-1" type="button" class="popup__close-btn js-close-popup">
+                <span class="sr-only">关闭</span>
+            </button>
+            <div class="row">
+                <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                    <div class="search__form-container">
+                        <label class="sr-only" for="search">search</label>
+                        <input class="search__form-input js-search-autocomplete" text="search" name="search" id="search" autocomplete="off" data-enable-ph-search="no" placeholder="搜索华为…… "/>
+                        <button class="search__form-submit" type="button">
+                            <span class="icon font-ico-search">
+                                <span class="sr-only">搜索</span>
+                            </span>
+                        </button>
+                        <button class="search__form-clear js-search-clear" type="button">
+                            <span class="icon font-ico-close">
+                                <span class="sr-only">关闭</span>
+                            </span>
+                        </button>
+                    </div>
+                    <div class="popular-show-wrap">
+                        <div class="popular-wrap">
+                            <div class="top-title">
+                                热门产品
+                            </div>
+                            <div class="popular-product dropdown__right">
+                                <div class="row  dropdown__row-mobile">
+                                    <div class="list dropdown__right-col col-xl-4 col-xs-6">
+                                        <a class="dropdown__series-link search-popular-product-link" data-position="1" title="HUAWEI Pura X" href="/cn/phones/pura-x/">
+                                            <div class="dropdown__holder">
+                                                <img class="dropdown__image-centered" data-src="/content/dam/huawei-cbg-site/cn/mkt/pdp/phones/pura-x/list/red.png" alt="HUAWEI Pura X" onerror="imgErrorUrl(this)"/>
+                                            </div>
+                                        </a>
+                                        <div>
+                                            <a class="heading dropdown__series-link search-popular-product-link" data-position="1" title="HUAWEI Pura X" href="/cn/phones/pura-x/">
+                                               HUAWEI Pura X
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="list dropdown__right-col col-xl-4 col-xs-6">
+                                        <a class="dropdown__series-link search-popular-product-link" data-position="2" title="HUAWEI WATCH GT 5" href="/cn/wearables/watch-gt5/">
+                                            <div class="dropdown__holder">
+                                                <img class="dropdown__image-centered" data-src="/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt5/new/list/green.png" alt="HUAWEI WATCH GT 5" onerror="imgErrorUrl(this)"/>
+                                            </div>
+                                        </a>
+                                        <div>
+                                            <a class="heading dropdown__series-link search-popular-product-link" data-position="2" title="HUAWEI WATCH GT 5" href="/cn/wearables/watch-gt5/">
+                                               HUAWEI WATCH GT 5
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="list dropdown__right-col col-xl-4 col-xs-6">
+                                        <a class="dropdown__series-link search-popular-product-link" data-position="3" title="HUAWEI FreeBuds 6" href="/cn/headphones/freebuds6/">
+                                            <div class="dropdown__holder">
+                                                <img class="dropdown__image-centered" data-src="/content/dam/huawei-cbg-site/cn/mkt/pdp/headphones/freebuds6/list/list-black.png" alt="HUAWEI FreeBuds 6" onerror="imgErrorUrl(this)"/>
+                                            </div>
+                                        </a>
+                                        <div>
+                                            <a class="heading dropdown__series-link search-popular-product-link" data-position="3" title="HUAWEI FreeBuds 6" href="/cn/headphones/freebuds6/">
+                                               HUAWEI FreeBuds 6
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="quick-link">
+                            <div class="top-title">
+                                快速预览
+                            </div>
+                            <div class="link-wrap row">
+                                <div class="col-sm-4 link-list">
+                                    <a title="手机" class="search-quick-link" href="/cn/phones/">手机</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="电脑" class="search-quick-link" href="/cn/laptops/">电脑</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="打印机" class="search-quick-link" href="/cn/printers/">打印机</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="平板" class="search-quick-link" href="/cn/tablets/">平板</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="智慧屏" class="search-quick-link" href="/cn/visions/">智慧屏</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="穿戴" class="search-quick-link" href="/cn/wearables/">穿戴</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="耳机音箱" class="search-quick-link" href="/cn/audio/">耳机音箱</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="全屋智能" class="search-quick-link" href="/cn/wholehome/">全屋智能</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="路由器" class="search-quick-link" href="/cn/routers/">路由器</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="配件" class="search-quick-link" href="/cn/accessories/">配件</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="终端云服务" class="search-quick-link" href="/cn/mobileservices/">终端云服务</a>
+                                </div>
+                            
+                                <div class="col-sm-4 link-list">
+                                    <a title="查找零售店" class="search-quick-link" href="/cn/retail/">查找零售店</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="search_toast">
+                请键入更多关键词
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="v4 n16-simple-tabs simple-tabs simple-tabs__sticky" data-component="n16-simple-tabs" style="display: none;">
+        <div class="container">
+            <div class="wrap">
+                <ul class="simple-tabs__wrap">
+                    <li class="simple-tabs__continent" data-region="Africa">Africa</li>
+                    <li class="simple-tabs__continent" data-region="Asia Pacific">Asia Pacific</li>
+                    <li class="simple-tabs__continent" data-region="Europe">Europe</li>
+                    <li class="simple-tabs__continent" data-region="Latin America">Latin America</li>
+                    <li class="simple-tabs__continent" data-region="Middle East">Middle East</li>
+                    <li class="simple-tabs__continent" data-region="North America">North America</li>
+                    <li class="simple-tabs__continent" data-region="Global">Global</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="cookie-data">
+    <div class="required-category">
+        
+    </div>
+    <div class="analysis-category">
+        
+    </div>
+    <div class="advertise-category">
+        
+    </div>
+    <div class="function-category">
+        
+    </div>
+    <div class="unknown-category">
+        
+    </div>
+</div>
+
+
+    
+    <script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/cookie-package-controller.min.15403c221f9cb150d5c5037427d9507c.js" defer></script>
+
+
+
+
+    <!-- 隐私协议popup配置项 -->
+    <input type="hidden" id="privacy-popup-switch"/>
+    <input type="hidden" id="privacy-popup-title"/>
+    <input type="hidden" id="privacy-popup-ids"/>
+    <input type="hidden" id="privacy-language-code" value="en-GB"/>
+    <input type="hidden" id="privacy-popup-content"/>
+    <input type="hidden" id="privacy-popup-agree"/>
+    <input type="hidden" id="privacy-popup-checkNote"/>
+    <input type="hidden" id="privacy-popup-remark"/>
+    <input type="hidden" id="privacy-popup-agreeText"/>
+    <input type="hidden" id="privacy-popup-rejectText"/>
+    <input type="hidden" id="privacy-close-i18n" value="关闭"/>
+    <input type="hidden" id="privacy-errortip-i18n" value="privacy_fetch_error_tip"/>
+    <script>
+        // 隐私协议总开关
+        var privacyPopupSwitch = Boolean();
+		var privacyButtonLineStyle = Boolean(false);
+    </script>
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+            
+            
+
+	
+		<main class="content-v4">
+			<div>
+				
+				<div class="html-text-component parbase section">
+
+
+
+
+
+
+	<input type="hidden" id="thumbnailImagePath" data-ccpc-api="//h5hosting-drcn.dbankcdn.cn/cch5/HiCare/myHuawei-shareSdk/shareSdk.js" value="https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/wx-share.jpg"/>
+
+
+
+<div class="hw-os">
+    <div class="os-speback">
+        <div class="os-sec1 oswillchan">
+            <div class="oskvksp">
+                <picture>
+                    <source type="image/png" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv-ksp-flod.svg">
+                    <source type="image/png" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv-ksp-mob.svg">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv-ksp.svg" alt="HarmonyOS 5 KV">
+                </picture>
+            </div>
+            <div class="oskvcompu">
+                <div class="oskvscreen">
+                    <picture>
+                        <source type="image/webp" media="(min-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv.webp">
+                        <source type="image/webp" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv.webp">
+                        <source type="image/jpeg" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv.jpg">
+                        <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-for-pc-kv.jpg" alt="HarmonyOS 5 KV"/>
+                    </picture>
+                </div>
+                <div class="oskvoutcom">
+                    <picture>
+                        <source type="image/webp" media="(min-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                        <source type="image/webp" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                        <source type="image/png" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png">
+                        <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 KV"/>
+                    </picture>
+                </div>
+            </div>
+        </div>
+        <div class="os-sec2 oswillchan">
+            <div class="pvimcon">
+                <div class="pvtrigger"></div>
+                <div class="pvcirclecon">
+                    <div class="oscircleabove">
+                        <div class="ospvtxtbtn">
+                            <div class="ospvtxt">
+                                <p class="lintxt1">HarmonyOS 5</p>
+                                <p class="lintxt2">精致流畅，简单易用</p>
+                                <p class="lintxt3">鸿蒙 AI<sup class="ssup" data-index="1">1</sup>，生而智能</p>
+                                <p class="lintxt4">全场景互联，天生一体</p>
+                                <p class="lintxt5">带来鸿蒙电脑革新生产力体验</p>
+                            </div>
+
+                            <a class="ospvbtn" data-video-id="videoPlayer" data-video-ratio="16:9" data-t-label="HarmonyOS 5 产品视频" data-t-ignore-link="true" data-video-image="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pv-video.jpg" href="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pv-video.mp4">
+                                即刻探索 <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pv-play.svg" alt="">
+                            </a>
+                        </div>
+                        <div class="osinncircle">
+                        </div>
+                    </div>
+                    <div class="oscirclebelow">
+                        <picture>
+                            <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pv1.webp">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pv1.png" alt="HarmonyOS 5 产品视频"/>
+                        </picture>
+                    </div>
+                </div>
+
+            </div>
+            <div class="s2space"></div>
+        </div>
+    </div>
+    <div class="os-sec3 oswillchan">
+        <div class="delicatecon">
+            <div class="circlehidden">
+                <div class="delicateback">
+                    <div class="delicatecircle"></div>
+                </div>
+                <div class="delicatetxtcon">
+                    <p class="delicatesut">精致流畅</p> 
+                    <h2 class="delicatemat">细腻灵动<br />和谐美学</h2>
+                </div>
+            </div>
+
+            <div class="delicatetrigger"></div>
+            <div class="delicatecontent">
+                <div class="delicatopcon">
+                    <div class="demobtrigger"></div>
+                    <div class="delihutxtcon">
+                        <div class="delihuinnercon">
+                            <h2 class="delihumat">一镜到底，<br class="showMob" />流畅到底</h2>
+                            <p class="delihudes">细致入微的动态效果，眼前一亮的全新体验。从锁屏到桌面，动态壁纸丝滑一镜到底；多窗口、多任务，切换调度行云<span class="nr">流水。</span></p>
+                        </div>
+                        <div class="deluinnerconmb showMob">
+                            <div class="delicamobcomfra">
+                                <div class="delicamobcanvas">
+                                    <canvas id="decanvasmob" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/deskimgs/harmony-os-5-desktop-ux-1-" ></canvas>
+                                </div>
+                                <div class="delicamocomimmob">
+                                    <picture>
+                                        <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                        <source type="image/png" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame-blur.png">
+                                        <img class="lazyload blur-up" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+
+                                <div class="deliscreenim1">
+                                    <picture>
+                                        <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1.webp">
+                                        <source type="image/png" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1.png" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1-blur.png">
+                                        <img class="lazyload blur-up" src="" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="deliscreenim2">
+                                    <picture>
+                                        <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2.webp">
+                                        <source type="image/png" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2.png" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2-blur.png">
+                                        <img class="lazyload blur-up" src="" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="deliscreenim3">
+                                    <picture>
+                                        <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3.webp">
+                                        <source type="image/png" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3.png" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3-blur.png">
+                                        <img class="lazyload blur-up" src="" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="delideskdock">
+                                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-dock.png" src="" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="delispacetop"></div>
+                </div>
+
+
+                <div class="delitriggermob"></div>
+                <div class="delibottom">
+                    <div class="delicatetit">
+                        <h3 class="decateusemat">用起来，<br class="showMob" />处处精致</h3>
+                        <p class="decateusedes">你的桌面，你做主。个性化图标、卡片大小由你定义；<br class="showPc" />状态栏、任务栏样式随你心意调整。精致界面，称心<span class="nr">如意。</span></p>
+                    </div>
+                    <ul class="delicateuses">
+                        <li class="delicateuseSlide slidefirst slideactive showPc">
+                            <div class="delcomframcanvcon">
+                                <div class="delicacomputfram">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame-blur.png" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="delicacanvascon">
+                                    <canvas id="decanvas" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/deskimgs/harmony-os-5-desktop-ux-1-"></canvas>
+                                </div>
+                                <div class="deliscreenim1">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-1-blur.png" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="deliscreenim2">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-2-blur.png" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="deliscreenim3">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-1-3-blur.png" alt="HarmonyOS 5 桌面 ux 界面图 1，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="delideskdock">
+                                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-dock.png" alt="">
+                                </div>
+                            </div>
+                        </li>
+                        <li class="delicateuseSlide delicateSlideSec delicateuseSlidemob">
+                            <div class="delicatransition">
+                                <div class="delicatemovecom">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame-blur.png" alt="HarmonyOS 5 桌面 ux 界面图 2，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                    </picture>
+                                </div>
+                                <div class="povideo delicaslide2video">
+                                    <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                        <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-2.mp4">
+                                    </video>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="delicateuseSlide delicateSlidethi delicateuseSlidemob">
+                            <div class="delicatransition">
+                                <picture>
+                                    <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 桌面 ux 界面图 3，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                </picture>
+                                <div class="povideo delicaslide2video">
+                                    <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                        <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-3.mp4">
+                                    </video>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="delicateuseSlide delicateSlidefou delicateuseSlidemob">
+                            <div class="delicatransition">
+                                <picture>
+                                    <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 桌面 ux 界面图 4，展示了 HarmonyOS 5 操作系统的桌面布局。"/>
+                                </picture>
+                                <div class="povideo delicaslide2video">
+                                    <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                        <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-desktop-ux-4.mp4">
+                                    </video>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="showMob delispacemob">
+
+                </div>
+            </div>
+            <div class="delicatspace showPc"></div>
+        </div>
+    </div>
+    <div class="os-sec4">
+        <h3 class="simfingermat">行事，<br class="showMob"/>看你手势</h3>
+        <div class="simfiswiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="povideo">
+                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1-complete.jpg" poster="" muted="" loop playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                            
+                            <source class="hideipad" type="video/webm" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.webm" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.webm" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.webm">
+                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-1.mp4">
+                        </video>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="povideo">
+                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2-complete.jpg" poster="" muted="" loop playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                            <source class="hideipad" type="video/webm" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.webm" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.webm" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.webm">
+                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gesture-operation-ux-2.mp4">
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="simfinernav">
+            <div class="uloutcon">
+                <ul class="simfininav">
+                    <li class="active"><p>桌面屏幕</p></li>
+                    <li><p>多任务中心</p></li>
+                </ul>
+                <div class="simovesqua"></div>
+            </div>
+        </div>
+        <div class="simfingertxt">
+            <p class="active">三指上滑，回到<span class="nr">桌面<sup class="ssup" data-index="2">2</sup>。</span></p>
+            <p>三指上滑悬停，打开多任务中心<span class="nr">界面<sup class="ssup" data-index="2">2</sup>。</span></p>
+        </div>
+    </div>
+    <div class="os-sec5">
+        <h3 class="livemat">新设计，<br class="showMob" />称你心意</h3>
+        <p class="livedes">精致动效，让交互呈现优雅的运动反馈，拟真的光影质感细腻且层次分明，带来愉悦的感官<span class="nr">享受<sup class="ssup" data-index="3">3</sup>。</span></p>
+        <div class="liveswipenav">
+            <div class="liveswiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="livevideo povideo">
+                            <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-mob.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-mob.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-flod.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-flod.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-mob.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-flod.mp4">
+                            </video>
+                        </div>
+                        <p class="livesubt">个性主题</p>
+                        <div class="liveplusbtn osopenbtnfir">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-plus.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="livevideo povideo">
+                            <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-mob.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-mob.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-flod.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-flod.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-mob.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-flod.mp4">
+                            </video>
+                        </div>
+                        <p class="livesubt">引力动效</p>
+                        <div class="liveplusbtn osopenbtnsec">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-plus.svg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="livevideo povideo">
+                            <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-mob.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-mob.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-flod.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-flod.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-mob.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-flod.mp4">
+                            </video>
+                        </div>
+                        <p class="livesubt">光影动效</p>
+                        <div class="liveplusbtn osopenbtnthr">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-plus.svg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="livenav">
+                <li class="livenavlbtn">
+                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                </li>
+                <li class="livenavrbtn">
+                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="os-sec6 oswillchan">
+        <div class="allaroundcon">
+            <div class="allaroundcircle">
+                <div class="allarouinncircle"></div>
+            </div>
+            <div class="allroutri"></div>
+            <div class="allroundbcolor">
+                <div class="allaroundtxtcon">
+                    <p class="allaroundsut">鸿蒙 AI</p>
+                    <h2 class="allaroundmat">更高效的你<br />由<p class="allbackchan">小艺</p>助力<sup class="ssup" data-index="4">4</sup> </h2>
+                </div>
+                <div class="allroundtri"></div>
+                <div class="allabelcon">
+                    <div class="alltxtcanv">
+                        <div class="colorlabel">
+                            <p class="alroundlabel0">告诉我今天国际发生了什么大新闻</p>
+                            <p class="alroundlabel1">请帮我提取这张图片的文字内容</p>
+                            <p class="alroundlabel2">详细整理下这篇文档，做下财报分析</p>
+                            <p class="alroundlabel3">这份 PPT 只帮我保留第一页和最后一页</p>
+                            <p class="alroundlabel4">给我推荐一部本格推理的悬疑片</p>
+                            <p class="alroundlabel5">我要打印这份文档</p>
+                            <p class="alroundlabel6">帮我计算 20 到 25 年公司营销投资变化趋势</p>
+                            <p class="alroundlabel7">西安必玩的景点有哪些</p>
+                            <p class="alroundlabel8">关闭华为浏览器的通知提醒</p>
+                            <p class="alroundlabel9">电量不够了，帮我打开省电模式</p>
+                        </div>
+                        <div class="allrounmobtri"></div>
+                        <div class="allaroundcanvas">
+                            <canvas id="allroucanvas" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/xiaoyiimgs/harmony-os-5-ai"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="os-sec7">
+        <div class="aitxtcon">
+            <h3 class="aixiaoymat">多样化交流，<br class="showMob" />对答如流</h3>
+        </div>
+        <div class="aixiaoyswicon">
+            <div class="aixiaoyswiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="aicardtxtcon">
+                            <h4 class="aicardmat">图片交互</h4>
+                            <p class="aicarddes">利用小艺圈选，即刻提取图片里的文字、表格，外文内容也能轻松<span class="nr">翻译<sup class="ssup" data-index="5">5</sup>。</span></p>
+                        </div>
+                        <div class="aicompuframe">
+                            <picture>
+                                <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 识图功能。">
+                            </picture>
+
+                            <div class="povideo">
+                                <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                    <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-image-recognition.mp4">
+                                </video>
+                            </div>
+                        </div>
+
+                        <div class="aicardplaybtn">
+                            <img class="playbtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="replaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="pausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="aicardtxtcon">
+                            <h4 class="aicardmat">小艺语音对话</h4>
+                            <p class="aicarddes">各种语音指令随时响应，<br class="showMob" />无需手动输入，使用更<span class="nr">便捷<sup class="ssup" data-index="6">6</sup>。</span></p>
+                        </div>
+                        <div class="aicompuframe">
+                            <picture>
+                                <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 识图功能。">
+                            </picture>
+                        
+                            <div class="povideo">
+                                <video class="custom-video nodonow rivideo aboutvideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-voice-wake-up.mp4">
+                                </video>
+                            </div>
+                        </div>
+
+                        <div class="aicardplaybtn">
+                            <img class="playbtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="replaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="pausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="aicardtxtcon">
+                            <h4 class="aicardmat">文本沟通</h4>
+                            <p class="aicarddes">输入文字直接对话小艺，提问闲聊都能快速理解回复，交流不<span class="nr">卡壳<sup class="ssup" data-index="7">7</sup>。</span></p>
+                        </div>
+                        <div class="aicompuframe">
+                            <picture>
+                                <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                                <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 识图功能。">
+                            </picture>
+                        
+                            <div class="povideo">
+                                <video class="custom-video nodonow rivideo aboutvideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                    <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-text-dialogue.mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="aicardplaybtn">
+                            <img class="playbtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="replaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="pausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="aixiaoynav">
+                <li class="aixiaoynavlbtn">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" alt="">
+                </li>
+                <li class="aixiaoynavrbtn">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" alt="">
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="os-sec8">
+        <div class="deepthintobocon">
+            <div class="deepthinpartop">
+                <div class="deepthinkim">
+                    <picture>
+                        <source type="image/webp" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                        <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 识图功能。">
+                    </picture>
+
+                    <div class="povideo">
+                        <video class="custom-video nodonow" muted="" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking-complete.jpg" poster="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                            
+                            <source type="video/webm" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.webm" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.webm" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.webm">
+                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-deep-thinking.mp4">
+                        </video>
+                    </div>
+                </div>     
+                <div class="deepthinktxtcon">
+                    <h3 class="deepthinkmat">遇难题，<br class="hideFold"/>帮你捋思路</h3>
+                    <p class="deepthinkdes">小艺深度思考，复杂问题深思熟虑，做你的幕后智囊。喝杯咖啡的功夫，就把推导过程与内容结论交到你手里，让你专注更重要的<span class="nr">事情<sup class="ssup" data-index="7">7</sup>。</span></p>
+                </div> 
+            </div>
+            <div class="deepthinreplaybtn">
+                <div class="depthinplay btnshow">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-play2.svg" alt=""><span>播放</span>
+                </div>
+                <div class="depthinreplay">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-replay2.svg" alt=""><span>重播</span>
+                </div>
+                <div class="depthinpause">
+                    <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pause2.svg" alt=""><span>暂停</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="os-sec9 oswillchan">
+        <div class="latertrigger"></div>
+        <div class="solsticky">
+            <div class="soloutcon">
+                <div class="solbtntoth">
+                    <ul class="soldiffcultxtcon">
+                        <li class="soldiftxt soldiftxt1 active">
+                            <h3>难写的报告，<br class="hideFold" />有我协助</h3>
+                            <p>例行周报还没写？召唤我，贴心生成周报模板，助你高效完成周报创作。不仅如此，我还能协同专业应用，自动创作演示文稿、思维导图，繁杂任务有我在，打得一手好<span class="nr">配合<sup class="ssup" data-index="8">8</sup>。</span></p>
+                        </li>
+                        <li class="soldiftxt soldiftxt2">
+                            <h3>看不懂的，<br class="hideFold" />有我翻译</h3>
+                            <p>支持 21 种语言文本翻译，看不懂的国际期刊文献或外文图片，交给我<span class="nr">搞定<sup class="ssup" data-index="9">9</sup>。</span></p>
+                        </li>
+                        <li class="soldiftxt soldiftxt3"> 
+                            <h3>不会设置？<br class="hideFold" />说一声就好</h3>
+                            <p>无需另行上网搜索电脑设置攻略，告诉小艺你想怎么配置电脑，深色模式、指纹设定、壁纸更换等，便捷设置快人<span class="nr">一步<sup class="ssup" data-index="10">10</sup>。</span></p>
+                        </li>
+                    </ul>
+                    <div class="soldiffcultcomframe">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                            <source type="image/png" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 创作功能。"/>
+                        </picture>
+                        <div class="soldiffcultsiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="povideo firstvideo">
+                                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation1.mp4">
+                                        </video>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <picture>
+                                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation2.webp">
+                                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation2.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation2-blur.jpg" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 创作功能。"/>
+                                    </picture>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="povideo secondvideo">
+                                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-creation3.mp4">
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="solvrebtnout">
+                    <div class="slovslidefirbtns opashow">
+                        <div class="slovplaybtn btnshow">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-play2.svg" alt=""><span>播放</span>
+                        </div>
+                        <div class="slovreplaybtn">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-replay2.svg" alt=""><span>重播</span>
+                        </div>
+                        <div class="slovpause">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pause2.svg" alt=""><span>暂停</span>
+                        </div>
+                    </div>
+                    <div class="slovslidesecbtns">
+                        <div class="slovplaybtn btnshow">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-play2.svg" alt=""><span>播放</span>
+                        </div>
+                        <div class="slovreplaybtn">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-replay2.svg" alt=""><span>重播</span>
+                        </div>
+                        <div class="slovpause">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pause2.svg" alt=""><span>暂停</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="solspace"></div>
+    </div>
+    <div class="os-sec10">
+        <div class="multifunctcon">
+            <div class="multifunctconswiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide.webp">
+                            <source type="image/webp" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-flod.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-mob.webp">
+                            <source type="image/jpeg" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-flod.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-flod-blur.jpg">
+                            <source type="image/jpeg" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-mob.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-mob-blur.jpg">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-recommendation-guide-blur.jpg" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 推荐功能。"/>
+                        </picture>  
+                    </div>
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record.webp">
+                            <source type="image/webp" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-flod.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-mob.webp">
+                            <source type="image/jpeg" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-flod.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-flod-blur.jpg">
+                            <source type="image/jpeg" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-mob.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-mob-blur.jpg">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-smart-record-blur.jpg" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的小艺慧记功能。"/>
+                        </picture>  
+                    </div>
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search.webp">
+                            <source type="image/webp" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-flod.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-mob.webp">
+                            <source type="image/jpeg" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-flod.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-flod-blur.jpg">
+                            <source type="image/jpeg" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-mob.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-mob-blur.jpg">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-ai-precise-search-blur.jpg" alt="HarmonyOS 5 的 ux 视频，展示了 HarmonyOS 5 操作系统的 ai 精准搜答功能。"/>
+                        </picture>  
+                    </div>
+                </div>
+            </div>
+            <div class="multinavtxtcon">
+                <div class="multifunctxt">
+                    <P class="active"><span class="specolor">想旅游，问我就对了。</span>小艺会根据你的偏好、预算以及时间安排，为你生成当地的旅游攻略，简单高效。从出行天气到地方美食，小艺都为你查找妥当，做靠谱的旅游<span class="nr">搭子<sup class="ssup" data-index="7">7</sup>。</span></P>
+                    <P><span class="specolor">有我在，开会毫不费力。小艺慧记，</span>会议托管提醒，开会无需全程盯守，有人 Cue 你，及时提醒，快速查询会议重点。实时生成摘要，会后纪要快速整理，录音、截图、备注一键<span class="nr">归档<sup class="ssup" data-index="11">11</sup>。</span></P>
+                    <P><span class="specolor">精准搜答，大海能捞针。</span>想从你电脑的各种资料里找到关键数据，并总结出近几年营销投资趋势？<span class="specolor">小艺知识空间，</span>它能从本地多个不同文档中摘取你所需的信息，并直接为你总结并计算出<span class="nr">结果<sup class="ssup" data-index="12">12</sup>。</span></P>
+                </div>
+                <ul class="multifunctnav">
+                    <li class="mutifunnavlbtn">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                    </li>
+                    <li class="mutifunnavrbtn">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="os-sec11 oswillchan">
+        <div class="intevethincirclecon">
+            <div class="intevethincircle"></div>
+        </div>
+
+        <div class="intevethincontent">
+            <p class="intevethinsut">全场景互联</p>
+            <h2 class="intevethinmat">互联互通<br />天生一体</h2>
+        </div>
+        <div class="inteventhinimcon">
+            <div class="inteventhinlim">
+                <picture>
+                    <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1.webp">
+                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-blur.png" alt="一只手拿着手机和电脑连接的图，展示了 HarmonyOS 5 操作系统的互联互通功能。"/>
+                </picture>
+                <div class="povideo">
+                    <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                        <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity1-v.mp4">
+                    </video>
+                </div>
+            </div>
+            <div class="inteventhinrim">
+                <picture>
+                    <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2.webp">
+                    <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-blur.png" alt="一只手拿着手机和电脑连接的图，展示了 HarmonyOS 5 操作系统的互联互通功能。"/>
+                </picture>
+                <div class="povideo">
+                    <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                        <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-interconnectivity2-v.mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="os-sec12">
+        <h3 class="eausemat">好用的，<br class="showMob" />都为你所用</h3>
+        <div class="eauseoutcon">
+            <div class="eauseswiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="povideo">
+                            <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect-flod-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                
+                                <source type="video/webm" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.webm" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.webm" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.webm">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-hardware-interconnect.mp4">
+                            </video>
+                        </div>
+                        <div class="eausebtns">
+                            <img class="eauseplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="eausereplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="eausepause" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="povideo">
+                            <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect-flod-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/webm" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.webm" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.webm" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.webm">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-app-interconnect.mp4">
+                            </video>
+                        </div>
+                        <div class="eausebtns">
+                            <img class="eauseplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="eausereplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="eausepause" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="povideo">
+                            <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-interconnect.mp4">
+                            </video>
+                        </div>
+                        <div class="eausebtns">
+                            <img class="eauseplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="eausereplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="eausepause" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="eausetxtnav">
+                <div class="eausetxt">
+                    <p class="active">当手机、平板和电脑间实现键鼠共享后，即可使用<span class="specolor">手眼同行</span>功能。眼睛看向目标设备，光标和键盘就能转移到该设备并使用。电脑端编辑文档时，眼睛看向手机并按下 Ctrl 键，即可用鼠标调用手机中的图片，快速完成图片选择与插入，一气<span class="nr">呵成<sup class="ssup" data-index="13">13</sup>。</span></p>
+                    <p>手机上记录的灵感，靠近电脑即可无缝转移并继续完善。通勤途中用手机临时参会，到工位后靠近电脑，便能继续会议。轻轻一点，<span class="specolor">无缝接续，</span>效率<span class="nr">倍增<sup class="ssup" data-index="14">14</sup>。</span></p>
+                    <p><span class="specolor">华为分享</span>支持一对四的并发高速传输，无需排队。文档、图片、视频等文件均可无损直达，高效<span class="nr">传递</span>同时也保障了文件的“原汁<span class="nr">原味”<sup class="ssup" data-index="15">15</sup>。</span></p>
+                </div>
+                <ul class="eausenav">
+                    <li class="eauselbtn">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                    </li>
+                    <li class="eauserbtn">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="os-sec13 oswillchan">
+        <div class="safeprotectioncircle"></div>
+        <div class="safeproback">
+            <div class="safeprotectiioncon">
+                <div class="safeprotxtcon">
+                    <p class="safeprosut">纯净安全</p>
+                    <h2 class="safepromat">隐私安全<br />由你掌控</h2>        
+                </div>
+                <div class="safeproim">
+                    <picture>
+                        <source type="image/webp" media="(min-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security.webp">
+                        <source type="image/webp" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-flod.webp">
+                        <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security.webp">
+                        <source type="image/jpeg" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-flod.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-flod-blur.jpg">
+                        <source type="image/jpeg" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-blur.jpg">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-blur.jpg" alt="HarmonyOS 5 的产品正面图及鸿蒙界面图，展示了 HarmonyOS 5 操作系统的原生安全功能。"/>
+                    </picture>  
+                </div>
+            </div>  
+            <div class="safeswicon">
+                <div class="safeprooutcon">
+                    <div class="safeproswiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" data-index="1">
+                                <div class="slideinner">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps-flod-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-pure-apps.mp4">
+                                        </video>
+                                    </div>
+                                    <div class="safeprobtns">
+                                        <img class="safeproplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                                        <img class="safeproreplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                                        <img class="safepropausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" data-index="2">
+                                <div class="slideinner">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access-flod-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                     
+                                            <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-security-access.mp4">
+                                        </video>
+                                    </div>
+                                    <div class="safeprobtns">
+                                        <img class="safeproplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                                        <img class="safeproreplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                                        <img class="safepropausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" data-index="3">
+                                <div class="slideinner">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security-flod-complete.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-data-security.mp4">
+                                        </video>
+                                    </div>
+                                    <div class="safeprobtns">
+                                        <img class="safeproplaybtn btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                                        <img class="safeproreplaybtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                                        <img class="safepropausebtn" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="safecopyswiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"></div>
+                            <div class="swiper-slide"></div>
+                            <div class="swiper-slide"></div>
+                        </div>
+                    </div>
+                </div>
+
+
+    
+                <div class="safeprotxtnav">
+                    <div class="safeprotxtslide">
+                        <p class="active">每个应用都经过层层把控，不满足安全要求的应用就无法上架华为应用市场、安装和运行，<span class="specolor">从源头就<b class="nr">纯净。</b></span></p>
+                        <p>你的数据你做主，得益于<span class="specolor">安全访问</span>机制，应用单次使用数据需授权，应用只可获取你所选择的数据，无需担心过度<span class="nr">授权。</span></p>
+                        <p>隐私数据，保障多一重。数据离开设备，依旧由你掌控。<span class="specolor">文件加密分享，</span>秘密只分享给指定<span class="nr">的人<sup class="ssup" data-index="16">16</sup>。</span></p>
+                    </div>
+                    <ul class="safepronav">
+                        <li class="safeprolbtn disabled">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                        </li>
+                        <li class="safeprorbtn">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rarrow.svg" src="" alt="">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="os-sec14 oswillchan">
+        <div class="promiumappoutback">
+            <div class="premiumappcircle"></div>
+        </div>
+        <div class="preminumapptxt">
+            <p class="preminumappsut">鸿蒙应用</p>
+            <h2 class="preminumappmat">精品应用<br />生态好用</h2>
+            <p class="preminumtxtcon">各路精品应用齐聚鸿蒙电脑，<br />各种好想法，在此尽兴<span class="nr">放飞<sup class="ssup" data-index="17">17</sup>。</span></p>
+        </div>
+        <div class="preminumappimcon">
+            <div class="promiumappfircon">
+                <div class="premiumappfir">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps1.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps1.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+                <div class="premiumappfir">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps1.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps1.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+            </div>
+            <div class="premiumappseccon">
+                <div class="premiumappsec">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps2.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps2.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+                <div class="premiumappsec">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps2.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps2.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+            </div>
+            <div class="premiumappthicon">
+                <div class="premiumappthi">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps3.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps3.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+                <div class="premiumappthi">
+                    <picture>
+                        <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps3.webp">
+                        <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-premium-apps3.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="HarmonyOS 5 的应用图标集合图，展示了 HarmonyOS 5 拥有丰富的精品应用生态。"/>
+                    </picture>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="os-sec15">
+        <div class="havscreentxtcon">
+            <h3 class="havscreenmat">生态互融，<br class="showMob" />体验如一</h3>
+            <p class="havscreendes">融合的生态，一致的体验。鸿蒙电脑融合手机、<br class="hideMob" />平板的应用，界面熟悉，体验<span class="nr">连贯<sup class="ssup" data-index="17">17</sup>。</span></p>
+        </div>
+        <div class="havscreenswicon">
+            <div class="havscreenswiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-phones.webp">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-phones.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-phones-blur.png" alt="HarmonyOS 5 的 ux 界面图，展示了 HarmonyOS 5 支持应用于手机形态。"/>
+                        </picture>
+                    </div>
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-split-screen.webp">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-split-screen.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-split-screen-blur.png" alt="HarmonyOS 5 的 ux 界面图，展示了 HarmonyOS 5 支持应用于分屏形态。"/>
+                        </picture>
+                    </div>
+                    <div class="swiper-slide">
+                        <picture>
+                            <source type="image/webp" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-full-screen.webp">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-full-screen.png" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-compatibility-full-screen-blur.png" alt="HarmonyOS 5 的 ux 界面图，展示了 HarmonyOS 5 支持应用于全屏形态。"/>
+                        </picture>  
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="havoutscreencon">
+            <div class="havscreennavcon">
+                <ul class="havscreenav">
+                    <li class="active"><p>电脑应用</p></li>
+                    <li><p>平板应用</p></li>
+                    <li><p>手机应用</p></li>
+                </ul>
+                <div class="havmovesquare"></div>
+            </div>
+        </div>
+    </div>
+    <div class="last-section">
+        <ol>
+            <li class="footnote1">鸿蒙，是指产品搭载鸿蒙操作系统；AI，是指产品具备小艺智能体、小艺慧记、小艺搜索等 AI <span class="nr">功能。</span></li>
+            <li class="footnote2">功能需配合触控板<span class="nr">使用。</span></li>
+            <li class="footnote3">仅部分图标支持 3D 立体结构设计和拟真光影变化的效果，画面仅供参考，请以实际体验<span class="nr">为准。</span></li>
+            <li class="footnote4">使用该功能需电脑保持联网状态，并需搭配小艺智能体、小艺搜索、小艺慧记等功能使用，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote5">使用该功能需电脑保持联网状态，效果受文档文件、图片素材、系统版本等因素不同或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote6">使用该功能需电脑保持联网状态，仅支持普通话，效果受输入语料、语速、口音、环境、系统版本等因素影响或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）⁠。</span></li>
+            <li class="footnote7">使用该功能需电脑保持联网状态，效果受输入语料、系统版本等因素不同或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote8">使用该功能需电脑保持联网状态，目前支持 WPS Office、亿图脑图 MindMaster。PPT 演示文稿生成，为限时尝鲜功能，需从应用市场下载并安装最新版 WPS Office，登录 WPS 账号后即可使用。购买鸿蒙电脑的用户，可在“鸿蒙有礼”领取 WPS 超级会员和 AI PPT 权益包（兑换后 1 年内有效）。活动可能因合作、授权、商务或技术条件的变化而变化，不再单独通知。效果受输入语料、系统版本、应用版本等因素不同或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote9">使用该功能需电脑保持联网状态，效果受图片素材、文档格式等因素不同或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote10">使用该功能需电脑保持联网状态，效果受硬件状态、系统版本等因素不同或有差异，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote11">该功能需要搭配部分搭载 HarmonyOS 5 的手机使用，需手机、电脑保持联网状态，登录同一华为账号，效果受语速、口音、环境等因素影响或有差异，具体支持的设备、机型、服务和界面以实际为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote12">效果受文档文件、图片素材、系统版本等因素不同或有影响，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote13">仅部分搭载 HarmonyOS 5 的华为手机、平板、电脑支持该功能，使用该功能时，手机、平板、电脑需登录同一华为账号，并打开蓝牙和 Wi-Fi 开关，使用手眼同行功能过程中，避免摄像头识别到其他用户的脸，影响体验。如在选购或使用时对功能体验、使用限制、支持机⁠型等有疑问，请咨询华为客服<span class="nr">（950800）⁠。</span></li>
+            <li class="footnote14">仅部分搭载 HarmonyOS 5 的华为手机、平板、电脑支持该功能，使用该功能时，手机、平板、电脑需登录同一华为账号，并打开蓝牙和 Wi-Fi 开关，仅部分应用支持接续功能，请以实际体验为准。如在选购或使用时对功能体验、使用限制、支持机⁠型等有疑问，请咨询华为客服<span class="nr">（950800）⁠。</span></li>
+            <li class="footnote15">仅部分搭载 HarmonyOS 5 的华为手机、平板、电脑支持该功能，使用该功能时，手机、平板、电脑需打开蓝牙和 Wi-Fi 开关。如在选购或使用时对功能体验、使用限制、支持机型等有疑问，请咨询华为客服<span class="nr">（950800）。</span></li>
+            <li class="footnote16">仅部分搭载 HarmonyOS 5 的华为手机、平板、电脑支持该功能。如在选购或使用时对功能体验、使用限制、支持机⁠型等有疑问，请咨询华为客服<span class="nr">（950800）⁠。</span></li>
+            <li class="footnote17">合作应用随商务、技术条件、软件版本有所变化，不再单独通知，具体支持的应用、界面，请以实际体验<span class="nr">为准。</span></li>
+            <li class="mll">页面特性因不同机型支持情况或有差异，请以实际体验<span class="nr">为准。</span><br />搭载 HarmonyOS 5 的设备配合其他设备的使用功能及体验，正在逐步适配中，如您使用搭载 HarmonyOS 5 的设备并对其支持特性及配合设备使用有疑问，请咨询华为客服<span class="nr">（950800）⁠。</span></li>
+        </ol>
+
+        
+
+    </div>
+    <div class="ostitlemodal osmodalfir">
+        <div class="osoutcon">
+            <div class="ostitranel">
+                <div class="ostinnermodal">
+                    <div class="ostioutcon">
+                        <div class="osticlosebtn osclosebtnfir">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-close-icon.svg" src="" alt="">
+                        </div>
+                    </div>
+                    <div class="ostitxtcon">
+                        <p class="ostisubt">个性主题</p>
+                        <h2 class="ostimat">壁纸一动，<br class="showMob" />精彩不断</h2>
+                        <p class="ostides">个性主题壁纸，桌面由你随心换装，既能俯瞰星球，也能细赏各地迷人<span class="nr">风光。</span></p>
+                    </div>
+                    <div class="ostiswipercon">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.webp">
+                            <source type="image/png" media="(max-aspect-ratio:7/10)" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-computer-frame.png" alt="HarmonyOS 5 KV">
+                        </picture>
+    
+                        <div class="ostiswiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow rivideo aboutvideo1" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal1.mp4">
+                                        </video>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal2.mp4">
+                                        </video>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="povideo">
+                                        <video class="custom-video nodonow rivideo" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.jpg" poster="" muted="" playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                            <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-theme-motion-effect-modal3.mp4">
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="oststibtn">
+                        <div class="ostinavcon">
+                            <div class="ostibsquacon">
+                                <ul class="ostinav">
+                                    <li class="active">
+                                        <p>慢镜风光</p>
+                                    </li>
+                                    <li>
+                                        <p>互动雨滴</p>
+                                    </li>
+                                    <li>
+                                        <p>寰宇星球</p>
+                                    </li>
+                                </ul>
+                                <div class="ostimovesqa"></div>
+                            </div>
+                            <div class="ostilarrow showMob">
+                                <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rightarrow.svg" alt="">
+                            </div>
+                            <div class="ostirarrow showMob">
+                                <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-rightarrow.svg" alt="">
+                            </div>
+                            <div class="ostishadow"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ostitlemodal osmodalsec">
+        <div class="osoutcon">
+            <div class="ostitranel">
+                <div class="ostinnermodal">
+                    <div class="ostioutcon">
+                        <div class="osticlosebtn osclosebtnsec">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-close-icon.svg" src="" alt="">
+                        </div>
+                    </div>
+                    <div class="ostitxtcon">
+                        <p class="ostisubt">引力动效</p>
+                        <h2 class="ostimat">自由拖拽，<br class="showMob" />互动一绝</h2>
+                        <p class="ostides">引力动效，细腻响应。拖动应用图标时，其他图标在引力作用下轻弹避让，视觉体验轻快<span class="nr">灵动。</span></p>
+                    </div>
+                    <div class="osecmodalim">
+                        <div class="povideo">
+                            <video class="custom-video nodonow rivideo aboutvideo1" data-pc-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal.jpg" data-pc-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-complete.jpg" data-mob-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-mob.jpg" data-mob-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-mob-complete.jpg" data-flod-poster-first="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-flod.jpg" data-flod-poster-complete="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-flod-complete.jpg" poster="" muted playsinline="true" webkit-playsinline="true" x-webkit-airplay="true" x5-video-player-type="h5" x5-video-player-fullscreen="true">
+                                <source type="video/mp4" data-src-flod="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-flod.mp4" data-src-mb="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal-mob.mp4" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-gravity-motion-effect-modal.mp4">
+                            </video>
+                        </div>
+    
+                        <div class="oscondragbtn">
+                            <img class="condraplay btnshow" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicplaybtn.svg" alt="">
+                            <img class="condrareplay" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicreplaybtn.svg" alt="">
+                            <img class="condrapause" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-publicpausebtn.svg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ostitlemodal osmodalthr">
+        <div class="osoutcon">
+            <div class="ostitranel">
+                <div class="ostinnermodal">
+                    <div class="ostioutcon">
+                        <div class="osticlosebtn osclosebtnthr">
+                            <img src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-close-icon.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="ostitxtcon">
+                        <p class="ostisubt">光影动效</p>
+                        <h2 class="ostimat">任务栏图标，<br class="showMob" />也值得细看</h2>
+                        <p class="ostides">3D 立体结构图标，面貌一新，拟真光影跟随变化，精致感<span class="nr">十足<sup class="ssup" data-index="3">3</sup>。</span></p>
+                    </div>
+                    <div class="osthrmodalim">
+                        <picture>
+                            <source type="image/webp" media="(min-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal.webp">
+                            <source type="image/webp" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-flod.webp">
+                            <source type="image/webp" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-mob.webp">
+                            <source type="image/jpeg" media="(min-aspect-ratio:7/10) and (max-aspect-ratio:11/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-flod.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-flod-blur.jpg">
+                            <source type="image/jpeg" media="(max-aspect-ratio:7/10)" data-srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-mob.jpg" srcset="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-mob-blur.jpg">
+                            <img class="lazyload blur-up" data-src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal.jpg" src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/imgs/harmony-os-5-icons-modal-blur.jpg" alt="HarmonyOS 5 的图标展示视频，展示了 HarmonyOS 5 操作系统的多个 3D 立体图标。"/>
+                        </picture>  
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="eumiSecondMenuV4 iparsys parsys"></div>
+</div>
+
+			</div>
+			
+
+
+
+
+			
+
+
+
+
+
+
+		</main>
+	
+
+            
+            
+
+
+
+
+
+
+
+    
+    <div class="v4 iparsys-from-home-v4">
+        <div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="iparsys-from-home-v4 iparsys parsys"><div class="html-text-component parbase section">
+
+
+
+	<style type="text/css">
+		@media (max-width: 991.98px) {
+    .contact-us-v2 .contact-us-v2-wrap .contact-us-v2-left {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: none;
+    }
+}
+/* 2025/04/09 start */
+.home-main-banner .main-banner-item .live-banner-content{
+        max-width: 700px;
+}
+.home-main-banner .main-banner-col .live-banner-title-img {
+    width: 700px;
+}
+
+@media screen and (max-width: 1079.98px) {
+    .home-main-banner .main-banner-item .live-banner-content {
+        max-width: 580px;
+    }
+    .home-main-banner .main-banner-col .live-banner-title-img {
+        width: 580px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .home-main-banner .main-banner-item .live-banner-content {
+        max-width: 185px;
+    }
+    .home-main-banner .main-banner-col .live-banner-title-img {
+        width: 185px;
+    }
+}
+
+/* 2025/04/09 end */
+	</style>
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+    </div>
+
+
+
+
+	
+
+
+    
+
+
+
+
+
+
+
+<!-- EDM固定订阅入口 -->
+
+	
+
+
+
+	
+
+<footer class="v4 n09-footer footer " data-component="n09-footer">
+    <div class="container">
+        
+        
+            
+                <script type="application/ld+json">
+                    {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"主页","item":"https://consumer.huawei.com/cn/"},{"@type":"ListItem","position":2,"name":"鸿蒙电脑","item":"https://consumer.huawei.com/cn/harmonyos-computer/"},{"@type":"ListItem","position":3,"name":"鸿蒙电脑 - HarmonyOS 5","item":"https://consumer.huawei.com/cn/harmonyos-computer/harmonyos-5/"}]}
+                </script>
+            
+            <div class="breadcrumbs">
+                <ul class="breadcrumbs__list">
+                    <li class="breadcrumbs__item">
+                        
+                        <a class="breadcrumbs__link" title="主页" href="/cn/">主页</a>
+                    </li>
+                
+                    <li class="breadcrumbs__item">
+                        
+                        <a class="breadcrumbs__link" title="鸿蒙电脑" href="/cn/harmonyos-computer/">鸿蒙电脑</a>
+                    </li>
+                
+                    <li class="breadcrumbs__item">
+                        <span class="breadcrumbs__link">鸿蒙电脑 - HarmonyOS 5</span>
+                        
+                    </li>
+                </ul>
+            </div>
+        
+        <div class="usp-wrap">
+            
+
+
+        </div>
+        <div class="footer-links">
+            <div class="row">
+                
+                    <div class="col-xl-2 col-lg-4">
+                        <div class="footer-links__block">
+                            
+
+<div class="heading footer-links__title heading-06 js-footer-accordion-btn">购买产品</div>
+<ul class="footer-links__list" role="menubar">
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="手机" data-title="手机" class="footer-links__link  " href="/cn/phones/">
+                手机
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="穿戴" data-title="穿戴" class="footer-links__link  " href="/cn/wearables/">
+                穿戴
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="笔记本" data-title="笔记本" class="footer-links__link  " href="/cn/laptops/">
+                笔记本
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="显示器" data-title="显示器" class="footer-links__link  " href="/cn/monitors/">
+                显示器
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="打印机" data-title="打印机" class="footer-links__link  " href="/cn/printers/">
+                打印机
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="平板" data-title="平板" class="footer-links__link  " href="/cn/tablets/">
+                平板
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="智慧屏" data-title="智慧屏" class="footer-links__link  " href="/cn/visions/">
+                智慧屏
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="耳机音箱" data-title="耳机音箱" class="footer-links__link  " href="/cn/audio/">
+                耳机音箱
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="路由器" data-title="路由器" class="footer-links__link  " href="/cn/routers/">
+                路由器
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="配件" data-title="配件" class="footer-links__link  " href="/cn/accessories/overview/">
+                配件
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="商用产品" data-title="商用产品" class="footer-links__link  " href="https://qingyun.huawei.com/products-and-solutions/?utm_medium=referral&utm_source=consumer.huawei.com" target="_blank" rel="noopener noreferrer">
+                商用产品
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="教育商店" data-title="教育商店" class="footer-links__link  " href="https://www.vmall.com/portal/activity/index.html?pn=educationcenterpc" target="_blank" rel="noopener noreferrer">
+                教育商店
+            </a>
+        </li>
+    
+    
+</ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-xl-2 col-lg-4">
+                        <div class="footer-links__block">
+                            
+
+<div class="heading footer-links__title heading-06 js-footer-accordion-btn">服务支持</div>
+<ul class="footer-links__list" role="menubar">
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="保修政策" data-title="保修政策" class="footer-links__link  " href="/cn/support/warranty-policy/">
+                保修政策
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="上门安装" data-title="上门安装" class="footer-links__link  " href="/cn/support/install/">
+                上门安装
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="维修服务" data-title="维修服务" class="footer-links__link  " href="/cn/support/break-fix/">
+                维修服务
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="保修期及权益查询" data-title="保修期及权益查询" class="footer-links__link  " href="/cn/support/warranty-query/">
+                保修期及权益查询
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="维修备件价格" data-title="维修备件价格" class="footer-links__link  " href="/cn/support/sparepart-price/">
+                维修备件价格
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="服务进度查询" data-title="服务进度查询" class="footer-links__link  " href="/cn/support/inquiry/">
+                服务进度查询
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="联系我们" data-title="联系我们" class="footer-links__link  " href="/cn/support/contact-us/">
+                联系我们
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="服务隐私声明" data-title="服务隐私声明" class="footer-links__link  " href="/cn/support/service-privacy-notice/">
+                服务隐私声明
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="商用服务" data-title="商用服务" class="footer-links__link  " href="https://bsupport.huawei.com/" target="_blank" rel="noopener noreferrer">
+                商用服务
+            </a>
+        </li>
+    
+    
+</ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-xl-2 col-lg-4">
+                        <div class="footer-links__block">
+                            
+
+<div class="heading footer-links__title heading-06 js-footer-accordion-btn">应用与下载</div>
+<ul class="footer-links__list" role="menubar">
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="终端云服务" data-title="终端云服务" class="footer-links__link  " href="/cn/mobileservices/">
+                终端云服务
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为商城 APP" data-title="华为商城 APP" class="footer-links__link  " href="https://m.vmall.com/app/download?cid=1457312" target="_blank" rel="noopener noreferrer">
+                华为商城 APP
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="我的华为 APP " data-title="我的华为 APP " class="footer-links__link  " href="/cn/myhuawei-app/">
+                我的华为 APP 
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为手机助手" data-title="华为手机助手" class="footer-links__link  " href="https://consumer.huawei.com/cn/support/hisuite/">
+                华为手机助手
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为电脑管家" data-title="华为电脑管家" class="footer-links__link  " href="https://consumer.huawei.com/cn/support/pc-manager/">
+                华为电脑管家
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="HarmonyOS 5" data-title="HarmonyOS 5" class="footer-links__link  " href="/cn/harmonyos-next/">
+                HarmonyOS 5
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="预置应用公示" data-title="预置应用公示" class="footer-links__link  " href="/cn/support/apk/">
+                预置应用公示
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="HUAWEI HiCar" data-title="HUAWEI HiCar" class="footer-links__link  " href="/cn/phones/hicar/">
+                HUAWEI HiCar
+            </a>
+        </li>
+    
+    
+</ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-xl-2 col-lg-4">
+                        <div class="footer-links__block">
+                            
+
+<div class="heading footer-links__title heading-06 js-footer-accordion-btn">新闻中心</div>
+<ul class="footer-links__list" role="menubar">
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为新闻" data-title="华为新闻" class="footer-links__link  " href="/cn/press/news/">
+                华为新闻
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为活动" data-title="华为活动" class="footer-links__link  " href="/cn/press/events/">
+                华为活动
+            </a>
+        </li>
+    
+    
+</ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-xl-2 col-lg-4">
+                        <div class="footer-links__block">
+                            
+
+<div class="heading footer-links__title heading-06 js-footer-accordion-btn">关于我们</div>
+<ul class="footer-links__list" role="menubar">
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="关于我们" data-title="关于我们" class="footer-links__link  " href="/cn/about-us/">
+                关于我们
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="可持续发展" data-title="可持续发展" class="footer-links__link  " href="/cn/sustainability/">
+                可持续发展
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="隐私" data-title="隐私" class="footer-links__link  " href="/cn/privacy/privacy-statement-huawei/">
+                隐私
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为商城" data-title="华为商城" class="footer-links__link  " href="https://www.vmall.com/index.html?cid=27629229" target="_blank" rel="noopener noreferrer">
+                华为商城
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="HarmonyOS 开发者" data-title="HarmonyOS 开发者" class="footer-links__link  " href="https://developer.huawei.com/consumer/cn/" target="_blank" rel="noopener noreferrer">
+                HarmonyOS 开发者
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为云" data-title="华为云" class="footer-links__link  " href="https://www.huaweicloud.com/" target="_blank" rel="noopener noreferrer">
+                华为云
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="企业业务" data-title="企业业务" class="footer-links__link  " href="https://e.huawei.com/cn/" target="_blank" rel="noopener noreferrer">
+                企业业务
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="运营商网络" data-title="运营商网络" class="footer-links__link  " href="https://carrier.huawei.com/cn/" target="_blank" rel="noopener noreferrer">
+                运营商网络
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="华为集团" data-title="华为集团" class="footer-links__link  " href="https://www.huawei.com/cn/" target="_blank" rel="noopener noreferrer">
+                华为集团
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="加入华为" data-title="加入华为" class="footer-links__link  " href="https://career.huawei.com/reccampportal/campus4_index.html#campus4/content.html" target="_blank" rel="noopener noreferrer">
+                加入华为
+            </a>
+        </li>
+    
+        <li class="footer-links__item" role="menuitem">
+            <a title="内容举报" data-title="内容举报" class="footer-links__link goto-complaint-page " href="/cn/complaint-page/" target="_blank" rel="noopener noreferrer">
+                内容举报
+            </a>
+        </li>
+    
+    
+</ul>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="contact">
+            
+<div class="row">
+    
+
+
+    
+    <div class="contact__block col-xl-2 col-md-6">
+        <div class="heading contact__title heading-06">在线支持</div>
+        
+            
+            
+                <p class="contact__text"><a title="消费者服务热线">消费者服务热线</a></p>
+            
+        
+            
+                <p class="contact__text phone-icon">950800</p>
+            
+            
+        
+            
+            
+                <p class="contact__text"><a title="7*24小时 | 普通话">7*24小时 | 普通话</a></p>
+            
+        
+            
+            
+                <p class="contact__text"><a title="Mate X、非凡大师系列、艺术定制系列、Pura 70 Ultra 专属热线">Mate X、非凡大师系列、艺术定制系列、Pura 70 Ultra 专属热线</a></p>
+            
+        
+            
+                <p class="contact__text phone-icon">950801</p>
+            
+            
+        
+            
+            
+                <p class="contact__text"><a href="https://celia.consumer.huawei.com/official/#/?businessUUID=fe8192189f0a40e8a883ab8bdf1ba8ea" title="在线客服 | 7*24小时" target="_blank" rel="noopener noreferrer">在线客服 | 7*24小时</a></p>
+            
+        
+    </div>
+
+
+
+    
+    <div class="contact__block col-xl-2 col-md-6">
+        <div class="heading contact__title heading-06">线下支持</div>
+        
+            <p class="contact__text"><a href="/cn/support/service-center/" title="服务店查询">服务店查询</a></p>
+        
+            <p class="contact__text"><a href="/cn/retail/" title="零售店查询">零售店查询</a></p>
+        
+    </div>
+
+
+
+
+
+
+    
+        
+    <div class="contact__block col-xl-4 col-md-6">
+        <div class="heading contact__title heading-06">关注我们</div>
+        <ul class="contact__social-links lazyload-target">
+            
+                
+                
+                    
+
+                    <li class="contact__social-item">
+                        <a title="微信" class="contact__social-link" data-social="weixin">
+                            
+                            <span class="icon-lazy" data-name="font-ico-weixin"></span>
+                            <span class="contact__social-qrcode">
+                                    <picture>
+                                    <source class="lazyload-img" media="(max-width: 1199.98px)" data-srcset="//consumer-img.huawei.com/content/dam/huawei-cbg-site/greate-china/cn/mkt/v4/footer/weixin-mob.jpg"/>
+                                    <img class="lazyload-img" data-src="//consumer-img.huawei.com/content/dam/huawei-cbg-site/greate-china/cn/mkt/v4/footer/weixin.jpg" alt="weixin" srcset=""/>
+                                    </picture>
+                            </span>
+                        </a>
+                    </li>
+                    
+                
+            
+                
+                
+                    
+
+                    
+                    <li class="contact__social-item">
+                        <a title="微博" class="contact__social-link" data-social="weibo" href="http://t.sina.com.cn/huaweidevice" target="_blank" rel="noopener noreferrer">
+                            
+                            <span class="icon-lazy" data-name="font-ico-weibo"></span>
+                        </a>
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+    
+    
+</div>
+        </div>
+        <div class="footer-legals">
+            
+<div class="row">
+    <div class="copyright col-xl-4 col-md-8">
+        <small class="copyright__text">版权所有 © 华为终端有限公司 1998-2025。保留一切权利。粤A2-20044005号</small>
+    </div>
+    <div class="bottom-links col-xl-5">
+        <ul class="bottom-links__list">
+            
+                <li class="bottom-links__item">
+                    <a title="网站地图" class="bottom-links__link" href="/cn/sitemap/">
+                        网站地图
+                    </a>
+                </li>
+            
+                <li class="bottom-links__item">
+                    <a title="使用条款" class="bottom-links__link" href="/cn/legal/terms-of-use/">
+                        使用条款
+                    </a>
+                </li>
+            
+                <li class="bottom-links__item">
+                    <a title="隐私声明" class="bottom-links__link" href="/cn/privacy/privacy-policy/">
+                        隐私声明
+                    </a>
+                </li>
+            
+                <li class="bottom-links__item">
+                    <a title="关于cookies" class="bottom-links__link" href="/cn/legal/cookie-policy/">
+                        关于cookies
+                    </a>
+                </li>
+            
+                <li class="bottom-links__item">
+                    <a title="法律信息" class="bottom-links__link" href="/cn/legal/">
+                        法律信息
+                    </a>
+                </li>
+            
+            
+        </ul>
+        
+    </div>
+
+    <div class="language-switcher col-xl-3 col-md-4 ">
+        
+            <a title="China - 简体中文" class="language-switcher__link" href="https://consumer.huawei.com/en/worldwide/" target="_blank" rel="noopener noreferrer">China - 简体中文</a>
+        
+        
+            
+                <a href="https://consumer.huawei.com/en/worldwide/" title="globe" target="_blank" rel="noopener noreferrer">
+                    <span class="icon font-ico-globe"></span>
+                </a>
+            
+        
+    </div>
+
+    <input type="hidden" id="is_editor" data-is-editor-mode="false" value="false"/>
+    
+
+</div>
+        </div>
+    </div>
+</footer>
+	
+		
+
+
+
+    
+    <link rel="stylesheet" href="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/external-link.min.f78436bce58ae2318c0e47f8ddc41c2b.css" type="text/css">
+
+
+
+<!-- 免责声明弹窗 -->
+<div class="disclaimer-popup-component">
+  <div class="disclaimer-popup-content">
+    <div class="close-svg">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="12"/>
+        <g transform="translate(2.101 12) rotate(-45)">
+          <rect width="14" height="2" rx="1" transform="translate(0 6)" fill="#fff"/>
+          <rect width="14" height="2" rx="1" transform="translate(6 14) rotate(-90)" fill="#fff"/>
+        </g>
+      </svg>
+    </div>
+    <div class="disclaimer-popup-content-box">
+      <div class="disclaimer-popup-top">
+        <div class="disclaimer-popup-title">即将离开consumer.huawei.com</div>
+        <div class="disclaimer-popup-description">您即将跳转至第三方页面，华为无法控制，也无法对该页面内容负责。</div>
+        <div class="disclaimer-popup-link"></div>
+      </div>
+      <div class="disclaimer-popup-bottom">
+        <div class="disclaimer-popup-bottom-box">
+          <span class="btn disclaimer-popup-cancel-btn">取消</span>
+          <span class="btn disclaimer-popup-continue-btn">继续访问</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+    <script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/external-link.min.6e114069e37270642a25d77d159f795e.js" defer></script>
+
+
+
+
+	 
+
+
+
+
+
+
+
+            
+
+
+
+
+    
+        
+    
+<script type="text/javascript" src="/etc/designs/huawei-cbg-site/incompressible-libs.min.6c1b777f40628af86c70677b4da4b215.js"></script>
+<script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/base-built.min.20783f3daa4b6b70683c2ad8ebf97160.js"></script>
+
+
+
+
+        
+    
+<script type="text/javascript" src="/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4.min.ed4b0d2e9b855096d45eb072577261ed.js"></script>
+
+
+
+    
+    
+    
+
+
+
+
+
+<input type="hidden" id="hide-spu-questionnaire" value="0"/>
+
+
+
+ 
+	<meta name="CBG_DOC_ID" content="CN_HARMONYOS-COMPUTER_HARMONYOS-5"/>
+    <meta name="CBG_SITE_CODE" content="CN"/>
+    <meta name="CBG_LANGUAGE_CODE" content="zh-cn"/>
+    <meta name="CBG_DOC_CATEGORY" content="consumer_mkt"/>	
+    <meta name="CBG_DOC_SUBCATEGORY"/>
+    <meta name="CBG_DOC_THIRDCATEGORY"/>
+    <meta name="CBG_DOC_TYPE"/>   
+    <meta name="CBG_DRETITLE" content="鸿蒙电脑 - HarmonyOS 5"/>    
+    <meta name="CBG_DOC_KEYWORDS" content="鸿蒙 PC,鸿蒙电脑,鸿蒙笔记本,鸿蒙笔记本电脑,华为鸿蒙,鸿蒙系统,鸿蒙操作系统 5,HarmonyOS 5,鸿蒙操作系统,鸿蒙官网,鸿蒙电脑系统,电脑端 HarmonyOS 5,电脑端 HarmonyOS NEXT"/>
+    <meta name="CBG_DOC_DESCRIPTION" content="全新 HarmonyOS 5，首个鸿蒙电脑操作系统，精致流畅，体验浑然天成，手势操作更简单。鸿蒙智能，AI 助手小艺更全能。万物互联，支持硬件、应用、数据无缝接续互联。安全防护，隐私数据安全面面俱到。"/>             
+    <meta name="CBG_DOC_IMAGE"/>    
+    <meta name="CBG_DREDATE" content="2025-05-08 16:12:45"/>    
+    <meta name="CBG_DOC_URL" content="https://consumer.huawei.com/cn/harmonyos-computer/harmonyos-5/"/>    
+    <meta name="CBG_DOC_FILE"/>
+    <meta name="CBG_DOC_FILE_NAME"/>
+    <meta name="CBG_APPLICABLE_REGION" content="CN"/>
+    
+
+
+
+
+
+ 
+<script src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/js/vendor.js" type="text/javascript"></script>
+<script src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/js/swiper72.js" type="text/javascript"></script>
+<script src="/content/dam/huawei-cbg-site/cn/mkt/harmonyos-computer/harmonyos-5/js/index.js?v2" type="text/javascript"></script>
+
+
+
+
+
+
+
+	 
+
+
+        </body>
+    
+
+</html>
+
+
